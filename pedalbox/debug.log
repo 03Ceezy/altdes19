@@ -40,3 +40,4 @@
 [0926/101206:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0926/101211:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0926/101216:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0930/224322:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
