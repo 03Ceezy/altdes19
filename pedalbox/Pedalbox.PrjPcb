@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=..\generic\CAN_5V.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -56,7 +56,7 @@ DocumentUniqueId=FNBOPRBF
 
 [Document2]
 DocumentPath=..\generic\RVPOVP.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,7 +158,7 @@ DocumentUniqueId=FPJDMDAH
 
 [Document8]
 DocumentPath=..\generic\12V_to_5V_LDO_1A.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -225,23 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NJFSUYRG
 
 [Document12]
-DocumentPath=Pedalbox.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=PassiveFilter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHNWOVQS
 
-[Document14]
+[Document13]
 DocumentPath=VoltageReferenceGen.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFGNDOJR
 
-[Document15]
+[Document14]
 DocumentPath=PedalBox.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,6 +274,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TITFQFHV
+
+[Document15]
+DocumentPath=Pedalbox.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1230,11 +1230,11 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-MatchParameter1=Comment
+MatchParameter1=DualAND
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component_$RoomName
+PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 UniqueIDPath0=\WDAZVTBG
@@ -1247,7 +1247,7 @@ IndexStartValue0=1
 Suffix0=
 UniqueIDPath1=\YJMVRQLS
 DocumentName1=12V_to_5V_LDO_1A.SchDoc
-IsEnabled1=1
+IsEnabled1=0
 SelectionScope1=All
 Order1=2
 IndexEnabled1=0
@@ -1255,7 +1255,7 @@ IndexStartValue1=1
 Suffix1=
 UniqueIDPath2=\KIOEJPUX
 DocumentName2=12V_to_5V_LDO_1A.SchDoc
-IsEnabled2=1
+IsEnabled2=0
 SelectionScope2=All
 Order2=3
 IndexEnabled2=0
@@ -1279,7 +1279,7 @@ IndexStartValue4=1
 Suffix4=
 UniqueIDPath5=\VECZTYEM
 DocumentName5=CAN_5V.SchDoc
-IsEnabled5=1
+IsEnabled5=0
 SelectionScope5=All
 Order5=6
 IndexEnabled5=0
@@ -1383,7 +1383,7 @@ IndexStartValue17=1
 Suffix17=
 UniqueIDPath18=\ARDSJJXJ
 DocumentName18=RVPOVP.SchDoc
-IsEnabled18=1
+IsEnabled18=0
 SelectionScope18=All
 Order18=19
 IndexEnabled18=0
