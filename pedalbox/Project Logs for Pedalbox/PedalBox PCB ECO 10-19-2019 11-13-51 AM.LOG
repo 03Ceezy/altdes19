@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=12V Rail Pin=X1-14
+Added Component: Designator=C29(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capacitance"; Value = "0.01uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dielectric"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD123F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/DDZ9701-7/DDZ9701-7DICT-ND/3877402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MfrPartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "DDZ9701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=M1(POWER-SO8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "current"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/PSMN2R2-25YLC115/1727-5299-1-ND/2674299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MfrPartNo"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "PSMN2R2-25YLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcircuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "LFPAK56"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rdson"; Value = "2.5mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "N_Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vdsmax"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vgsmax"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vt"; Value = "4.5"; VariantName = "[No Variations]"
+Added Component: Designator=R36(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C29-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=12V Rail Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=M1-G
+Added Pin To Net: NetName=12V Rail Pin=M1-S
+Added Pin To Net: NetName=12V Rail Pin=M1-S
+Added Pin To Net: NetName=12V Rail Pin=M1-S
+Added Pin To Net: NetName=DGND Pin=R36-1
+Added Pin To Net: NetName=NetD1_1 Pin=R36-2
+Added Pin To Net: NetName=12V_Harness Pin=M1-D
+Added Pin To Net: NetName=12V_Harness Pin=X1-14
+Added Net: Name=12V_Harness
+Added Member To Class: ClassName=RVPOVP Member=Component C29 (C9) capacitor
+Added Member To Class: ClassName=RVPOVP Member=Component D1 
+Added Member To Class: ClassName=RVPOVP Member=Component M1 PSMN2R2-25YLC
+Added Member To Class: ClassName=RVPOVP Member=Component R36 (R15) resistor
+Added Room: Name=26PinSuperseal
+Added Room: Name=RVPOVP

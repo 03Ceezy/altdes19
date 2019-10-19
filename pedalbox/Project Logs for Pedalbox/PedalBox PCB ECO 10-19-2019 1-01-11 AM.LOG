@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=Net?_5V_LDO_Analog_2 Pin=C?_5V_LDO_Analog-2
+Added Pin To Net: NetName=Net?_5V_LDO_Digital_2 Pin=C?_5V_LDO_Digital-2
+Added Pin To Net: NetName=Net?_5V_LDO_Analog_2 Pin=U?_5V_LDO_Analog-2
+Added Pin To Net: NetName=Net?_5V_LDO_Digital_2 Pin=U?_5V_LDO_Digital-2
+Change Net Name : Old Net Name=Net?_5V_LDO_Analog_1 New Net Name=LDO_ADJ_5V_LDO_Analog
+Change Net Name : Old Net Name=Net?_5V_LDO_Digital_1 New Net Name=LDO_ADJ_5V_LDO_Digital
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C?_5V_LDO_Analog (C?) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C?_5V_LDO_Digital (C?) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP?_5V_LDO_Analog (TP?) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP?_5V_LDO_Digital (TP?) RCU-0C

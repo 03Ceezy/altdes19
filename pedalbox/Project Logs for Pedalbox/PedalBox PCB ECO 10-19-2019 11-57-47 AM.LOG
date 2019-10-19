@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=Brake Front Pin=C16-2
+Removed Pin From Net: NetName=Brake Rear Pin=C18-2
+Removed Pin From Net: NetName=CT2_Filtered Pin=C26-2
+Removed Pin From Net: NetName=CT1_Filtered Pin=C28-2
+Removed Pin From Net: NetName=Brake Front Pin=R22-2
+Removed Pin From Net: NetName=Brake Rear Pin=R24-2
+Removed Pin From Net: NetName=CT2_Filtered Pin=R32-2
+Removed Pin From Net: NetName=CT1_Filtered Pin=R34-2
+Removed Pin From Net: NetName=NetU7_1 Pin=U8-5
+Removed Pin From Net: NetName=Brake Rear Pin=U8-27
+Removed Pin From Net: NetName=Brake Front Pin=U8-28
+Removed Pin From Net: NetName=NetU7_4 Pin=U8-53
+Removed Pin From Net: NetName=CT2_Filtered Pin=U8-54
+Removed Pin From Net: NetName=CT1_Filtered Pin=U8-59
+Change Net Name : Old Net Name=CT1_Filtered New Net Name=Sensor 1_Current/Throttle Check
+Change Net Name : Old Net Name=CT2_Filtered New Net Name=Sensor 2_Current/Throttle Check
+Change Net Name : Old Net Name=NetU3_1 New Net Name=BPC_1_4.5
+Change Net Name : Old Net Name=NetU3_2 New Net Name=BPC_2_4.5
+Change Net Name : Old Net Name=NetU3_4 New Net Name=BPC_1_0.5
+Change Net Name : Old Net Name=NetU3_5 New Net Name=BPC_2_0.5
+Change Net Name : Old Net Name=NetU3_9 New Net Name=CTC_1_4.5
+Change Net Name : Old Net Name=NetU3_10 New Net Name=CTC_2_4.5
+Change Net Name : Old Net Name=NetU3_12 New Net Name=CTC_1_0.5
+Change Net Name : Old Net Name=NetU3_13 New Net Name=CTC_2_0.5
+Added Pin To Net: NetName=BPF_Filtered Pin=C16-2
+Added Pin To Net: NetName=BPF_Filtered Pin=R22-2
+Added Pin To Net: NetName=BPF_Filtered Pin=U8-28
+Added Net: Name=BPF_Filtered
+Added Pin To Net: NetName=BPR_Filtered Pin=C18-2
+Added Pin To Net: NetName=BPR_Filtered Pin=R24-2
+Added Pin To Net: NetName=BPR_Filtered Pin=U8-27
+Added Net: Name=BPR_Filtered
+Added Pin To Net: NetName=CT1_Filtered Pin=C28-2
+Added Pin To Net: NetName=CT1_Filtered Pin=R34-2
+Added Pin To Net: NetName=CT1_Filtered Pin=U8-59
+Added Net: Name=CT1_Filtered
+Added Pin To Net: NetName=CT2_Filtered Pin=C26-2
+Added Pin To Net: NetName=CT2_Filtered Pin=R32-2
+Added Pin To Net: NetName=CT2_Filtered Pin=U8-54
+Added Net: Name=CT2_Filtered
+Added Pin To Net: NetName=RX_CAN Pin=U8-53
+Added Net: Name=RX_CAN
+Added Pin To Net: NetName=TX_CAN Pin=U8-5
+Added Net: Name=TX_CAN

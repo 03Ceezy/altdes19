@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=N1-1
+Added Pin To Net: NetName=GND Pin=U8-40
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-5
+Change Net Name : Old Net Name=GND New Net Name=DGND

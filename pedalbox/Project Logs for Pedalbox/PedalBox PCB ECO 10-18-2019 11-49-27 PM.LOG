@@ -1,0 +1,23 @@
+Added Component: Designator=U?(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/microchip-technology/MCP2561T-E-SN/MCP2561T-E-SNCT-ND/5148846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vcc"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU3_5 Pin=U?-1
+Added Pin To Net: NetName=AGND Pin=U?-2
+Added Pin To Net: NetName=VDD Pin=U?-3
+Added Pin To Net: NetName=NetU3_53 Pin=U?-4
+Added Pin To Net: NetName=SPLIT Pin=U?-5
+Added Pin To Net: NetName=CAN_N Pin=U?-6
+Added Pin To Net: NetName=CAN_P Pin=U?-7
+Added Pin To Net: NetName=STBY Pin=U?-8
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C?_5V_LDO_Analog (C?) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C?_5V_LDO_Digital (C?) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP?_5V_LDO_Analog (TP?) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP?_5V_LDO_Digital (TP?) RCU-0C
+Added Member To Class: ClassName=CAN_5V Member=Component U? MCP2561 CAN Transceiver

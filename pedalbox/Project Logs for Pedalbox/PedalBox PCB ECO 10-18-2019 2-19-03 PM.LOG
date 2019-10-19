@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=Brake Front Pin=C13-2
+Added Pin To Net: NetName=Brake Rear Pin=C15-2
+Added Pin To Net: NetName=Sensor 2_Current/Throttle Check Pin=C23-2
+Added Pin To Net: NetName=Sensor 1_Current/Throttle Check Pin=C25-2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R20-2
+Added Pin To Net: NetName=NetC9_2 Pin=U3-31
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R26-2
+Added Pin To Net: NetName=NetC17_2 Pin=U3-32
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R28-2
+Added Pin To Net: NetName=NetC19_2 Pin=U3-6
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R30-2
+Added Pin To Net: NetName=NetC21_2 Pin=U3-13
+Added Net: Name=NetC21_2
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C?_5V_LDO_Analog (C?) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C?_5V_LDO_Digital (C?) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP?_5V_LDO_Analog (TP?) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP?_5V_LDO_Digital (TP?) RCU-0C
