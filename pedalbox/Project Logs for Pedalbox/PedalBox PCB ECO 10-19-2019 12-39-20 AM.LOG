@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AGND Pin=U3-40
+Added Pin To Net: NetName=DGND Pin=U3-40
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C?_5V_LDO_Analog (C?) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C?_5V_LDO_Digital (C?) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP?_5V_LDO_Analog (TP?) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP?_5V_LDO_Digital (TP?) RCU-0C
