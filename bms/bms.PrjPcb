@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=2
+HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -38,228 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\generic\CAN_5V.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FNBOPRBF
-
-[Document2]
-DocumentPath=..\generic\RVPOVP.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YHUKZNYG
-
-[Document3]
-DocumentPath=5V_12V_Logic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TRUEVPLU
-
-[Document4]
-DocumentPath=PlausibilityTrigger.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSGPIRHF
-
-[Document5]
-DocumentPath=Passive Filters.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OBCOGNLY
-
-[Document6]
-DocumentPath=BSPD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XWSDCUDP
-
-[Document7]
-DocumentPath=Pedalbox.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FPJDMDAH
-
-[Document8]
-DocumentPath=..\generic\12V_to_5V_LDO_1A.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KJGSFMRW
-
-[Document9]
-DocumentPath=SensorCheck.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TZYCDTKS
-
-[Document10]
-DocumentPath=MCUPedalbox.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HZSPMDBK
-
-[Document11]
-DocumentPath=26PinSuperseal.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NJFSUYRG
-
-[Document12]
-DocumentPath=PassiveFilter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZHNWOVQS
-
-[Document13]
-DocumentPath=VoltageReferenceGen.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NFGNDOJR
-
-[Document14]
-DocumentPath=PedalBox.PcbDoc
+DocumentPath=BMS_Slave_Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TITFQFHV
+DocumentUniqueId=SVZBEBRK
 
-[Document15]
-DocumentPath=Pedalbox.Annotation
+[Document2]
+DocumentPath=discharge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,14 +71,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
-DocumentPath=DivergentSignalOffset.SchDoc
+[Document3]
+DocumentPath=tempmux.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=15
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -307,15 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NGBWUQWD
-
-[GeneratedDocument1]
-DocumentPath=PedalBox 10-18-2019 11-50-46 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=PedalBox 10-18-2019 11-51-05 PM.WAS
-DItemRevisionGUID=
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -330,7 +101,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -436,7 +207,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -508,7 +279,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -530,7 +301,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -602,7 +373,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -639,7 +410,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -819,7 +590,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -863,7 +634,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -895,26 +666,36 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Save As/Export PCB
-OutputName7=Save As/Export PCB
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Save As/Export Schematic
-OutputName8=Save As/Export Schematic
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Specctra Design PCB
-OutputName9=Specctra Design PCB
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother MFC-J995DW Printer
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1110,7 +891,7 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=0
+Type1=1
 Type2=1
 Type3=2
 Type4=1
@@ -1255,203 +1036,13 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-MatchParameter1=DualAND
+MatchParameter1=Comment
 MatchStrictly1=1
-PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\WDAZVTBG
-DocumentName0=5V_12V_Logic.SchDoc
-IsEnabled0=1
-SelectionScope0=All
-Order0=1
-IndexEnabled0=0
-IndexStartValue0=1
-Suffix0=
-UniqueIDPath1=\WNCRZMJJ
-DocumentName1=12V_to_5V_LDO_1A.SchDoc
-IsEnabled1=1
-SelectionScope1=All
-Order1=25
-IndexEnabled1=0
-IndexStartValue1=1
-Suffix1=
-UniqueIDPath2=\IJKTEQRH
-DocumentName2=12V_to_5V_LDO_1A.SchDoc
-IsEnabled2=1
-SelectionScope2=All
-Order2=26
-IndexEnabled2=0
-IndexStartValue2=1
-Suffix2=
-UniqueIDPath3=\KJKZYZQE
-DocumentName3=26PinSuperseal.SchDoc
-IsEnabled3=1
-SelectionScope3=All
-Order3=4
-IndexEnabled3=0
-IndexStartValue3=1
-Suffix3=
-UniqueIDPath4=\FWMUGKBY
-DocumentName4=BSPD.SchDoc
-IsEnabled4=1
-SelectionScope4=All
-Order4=5
-IndexEnabled4=0
-IndexStartValue4=1
-Suffix4=
-UniqueIDPath5=\VECZTYEM
-DocumentName5=CAN_5V.SchDoc
-IsEnabled5=1
-SelectionScope5=All
-Order5=6
-IndexEnabled5=0
-IndexStartValue5=1
-Suffix5=
-UniqueIDPath6=\FRZMCAGR
-DocumentName6=DivergentSignalOffset.SchDoc
-IsEnabled6=1
-SelectionScope6=All
-Order6=23
-IndexEnabled6=0
-IndexStartValue6=1
-Suffix6=
-UniqueIDPath7=\GCDKZQNB
-DocumentName7=DivergentSignalOffset.SchDoc
-IsEnabled7=1
-SelectionScope7=All
-Order7=24
-IndexEnabled7=0
-IndexStartValue7=1
-Suffix7=
-UniqueIDPath8=\QLBDGDZQ
-DocumentName8=MCUPedalbox.SchDoc
-IsEnabled8=1
-SelectionScope8=All
-Order8=7
-IndexEnabled8=0
-IndexStartValue8=1
-Suffix8=
-UniqueIDPath9=\ZLTVQBIK\EMNDOYGH
-DocumentName9=PassiveFilter.SchDoc
-IsEnabled9=1
-SelectionScope9=All
-Order9=8
-IndexEnabled9=0
-IndexStartValue9=1
-Suffix9=
-UniqueIDPath10=\ZLTVQBIK\YBGAJAVJ
-DocumentName10=PassiveFilter.SchDoc
-IsEnabled10=1
-SelectionScope10=All
-Order10=9
-IndexEnabled10=0
-IndexStartValue10=1
-Suffix10=
-UniqueIDPath11=\ZLTVQBIK\WPUTCEPT
-DocumentName11=PassiveFilter.SchDoc
-IsEnabled11=1
-SelectionScope11=All
-Order11=10
-IndexEnabled11=0
-IndexStartValue11=1
-Suffix11=
-UniqueIDPath12=\ZLTVQBIK\TBZISWFF
-DocumentName12=PassiveFilter.SchDoc
-IsEnabled12=1
-SelectionScope12=All
-Order12=11
-IndexEnabled12=0
-IndexStartValue12=1
-Suffix12=
-UniqueIDPath13=\ZLTVQBIK\ULMJCRDH
-DocumentName13=PassiveFilter.SchDoc
-IsEnabled13=1
-SelectionScope13=All
-Order13=12
-IndexEnabled13=0
-IndexStartValue13=1
-Suffix13=
-UniqueIDPath14=\ZLTVQBIK\GGYNFPKZ
-DocumentName14=PassiveFilter.SchDoc
-IsEnabled14=1
-SelectionScope14=All
-Order14=13
-IndexEnabled14=0
-IndexStartValue14=1
-Suffix14=
-UniqueIDPath15=\ZLTVQBIK\RZZFCMYB
-DocumentName15=PassiveFilter.SchDoc
-IsEnabled15=1
-SelectionScope15=All
-Order15=14
-IndexEnabled15=0
-IndexStartValue15=1
-Suffix15=
-UniqueIDPath16=\ZLTVQBIK\QODULXVD
-DocumentName16=PassiveFilter.SchDoc
-IsEnabled16=1
-SelectionScope16=All
-Order16=15
-IndexEnabled16=0
-IndexStartValue16=1
-Suffix16=
-UniqueIDPath17=\ZLTVQBIK
-DocumentName17=Passive Filters.SchDoc
-IsEnabled17=1
-SelectionScope17=All
-Order17=16
-IndexEnabled17=0
-IndexStartValue17=1
-Suffix17=
-UniqueIDPath18=
-DocumentName18=Pedalbox.SchDoc
-IsEnabled18=1
-SelectionScope18=All
-Order18=17
-IndexEnabled18=0
-IndexStartValue18=1
-Suffix18=
-UniqueIDPath19=\FWMUGKBY\MGOKXSNY
-DocumentName19=PlausibilityTrigger.SchDoc
-IsEnabled19=1
-SelectionScope19=All
-Order19=18
-IndexEnabled19=0
-IndexStartValue19=1
-Suffix19=
-UniqueIDPath20=\ARDSJJXJ
-DocumentName20=RVPOVP.SchDoc
-IsEnabled20=1
-SelectionScope20=All
-Order20=19
-IndexEnabled20=0
-IndexStartValue20=1
-Suffix20=
-UniqueIDPath21=\FWMUGKBY\ZEFQZUVQ
-DocumentName21=SensorCheck.SchDoc
-IsEnabled21=1
-SelectionScope21=All
-Order21=20
-IndexEnabled21=0
-IndexStartValue21=1
-Suffix21=
-UniqueIDPath22=\FWMUGKBY\ZWNDTWCI
-DocumentName22=SensorCheck.SchDoc
-IsEnabled22=1
-SelectionScope22=All
-Order22=21
-IndexEnabled22=0
-IndexStartValue22=1
-Suffix22=
-UniqueIDPath23=\FWMUGKBY\ASMNZQJP
-DocumentName23=VoltageReferenceGen.SchDoc
-IsEnabled23=1
-SelectionScope23=All
-Order23=22
-IndexEnabled23=0
-IndexStartValue23=1
-Suffix23=
 
 [PrjClassGen]
 CompClassManualEnabled=0

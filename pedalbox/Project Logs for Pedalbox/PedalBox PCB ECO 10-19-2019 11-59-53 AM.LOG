@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=Brake Front Pin=C16-2
+Added Pin To Net: NetName=Brake Rear Pin=C18-2
+Added Pin To Net: NetName=Brake Front Pin=R22-2
+Added Pin To Net: NetName=Brake Rear Pin=R24-2
+Added Pin To Net: NetName=Brake Rear Pin=U8-27
+Added Pin To Net: NetName=Brake Front Pin=U8-28
+Change Net Name : Old Net Name=Brake Front New Net Name=BPF_Filtered
+Change Net Name : Old Net Name=Brake Rear New Net Name=BPR_Filtered

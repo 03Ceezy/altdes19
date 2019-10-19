@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=BK2_Filtered Pin=U6-6
+Removed Pin From Net: NetName=LED3 Pin=U6-30
+Removed Pin From Net: NetName=LED2 Pin=U6-35
+Removed Pin From Net: NetName=BPC_1_0.5 Pin=U6-44
+Removed Pin From Net: NetName=BPC_2_4.5 Pin=U6-45
+Removed Pin From Net: NetName=BPC_1_4.5 Pin=U6-46
+Removed Pin From Net: NetName=CT2_Filtered Pin=U6-54
+Removed Pin From Net: NetName=CT1_Filtered Pin=U6-59
+Added Pin To Net: NetName=BPC_1_0.5 Pin=U6-19
+Added Pin To Net: NetName=BPC_2_4.5 Pin=U6-20
+Added Pin To Net: NetName=BPC_1_4.5 Pin=U6-21
+Added Pin To Net: NetName=NetR4_1 Pin=U6-29
+Added Pin To Net: NetName=NetR3_1 Pin=U6-30
+Added Pin To Net: NetName=CT2_Filtered Pin=U6-33
+Added Pin To Net: NetName=CT1_Filtered Pin=U6-34
+Added Pin To Net: NetName=LED2 Pin=U6-51
+Added Pin To Net: NetName=LED 3 Pin=U6-52
+Added Net: Name=LED 3
+Added Pin To Net: NetName=NetU6_35 Pin=U6-35
+Added Net: Name=NetU6_35
