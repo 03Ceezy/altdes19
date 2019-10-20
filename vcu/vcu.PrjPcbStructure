@@ -1,4 +1,8 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc
+Record=TopLevelDocument|FileName=top.SchDoc
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_12V_to_5V_LDO_1A|SchDesignator=U_12V_to_5V_LDO_1A|FileName=12V_to_5V_LDO_1A.SchDoc|SymbolType=Normal|RawFileName=12V_to_5V_LDO_1A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_buffer|SchDesignator=U_buffer|FileName=buffer.SchDoc|SymbolType=Normal|RawFileName=buffer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_CAN_5V|SchDesignator=U_CAN_5V|FileName=CAN_5V.SchDoc|SymbolType=Normal|RawFileName=CAN_5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_MKE1xFxxxVLH|SchDesignator=U_MKE1xFxxxVLH|FileName=MKE1xFxxxVLH.SchDoc|SymbolType=Normal|RawFileName=MKE1xFxxxVLH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=sketch.SchDoc|Designator= |SchDesignator= |FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=sketch.SchDoc|Designator=5in12out|SchDesignator=5in12out|FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=sketch.SchDoc|Designator=5vBuffers|SchDesignator=5vBuffers|FileName= |SymbolType=Normal|RawFileName= |DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
