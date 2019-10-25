@@ -2,3 +2,5 @@ CN0=BPSD_OK_5,BMS_OK_5,IMD_OK_5,Unlatch_5,TSReady_5,TS_Checks_5
 CN1=UC2_5,UC1_5,Buzzer_Switch_5
 CN2=Wheel Speed 1,Wheel Speed 2,Wheel Speed 3,Wheel Speed 4
 CN3=MC_CANN,MC_CANP
+CN4=BPSD_OK_12,BMS_OK_12,IMD_OK_12
+CN5=TS_READY
