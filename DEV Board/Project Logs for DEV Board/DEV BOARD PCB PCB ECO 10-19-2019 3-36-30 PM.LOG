@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=D16_LED_R1 Pin=M1-1
-Added Pin To Net: NetName=D15_LED_R2 Pin=M2-1
-Added Pin To Net: NetName=D15_LED_R2 Pin=R?-2
-Added Pin To Net: NetName=D16_LED_R1 Pin=R?-2
-Added Member To Class: ClassName=DEV Board Member=Component R? resistor

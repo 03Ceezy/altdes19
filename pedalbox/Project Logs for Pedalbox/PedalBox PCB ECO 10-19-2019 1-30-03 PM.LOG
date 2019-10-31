@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=DGND Pin=C2_5V_LDO_Analog-1
-Removed Pin From Net: NetName=DGND Pin=R8_5V_LDO_Analog-1
-Removed Pin From Net: NetName=DGND Pin=U1_5V_LDO_Analog-3
-Added Pin To Net: NetName=AGND Pin=C2_5V_LDO_Analog-1
-Added Pin To Net: NetName=AGND Pin=R8_5V_LDO_Analog-1
-Added Pin To Net: NetName=AGND Pin=U1_5V_LDO_Analog-3
-Added Room: Name=MCUPedalbox

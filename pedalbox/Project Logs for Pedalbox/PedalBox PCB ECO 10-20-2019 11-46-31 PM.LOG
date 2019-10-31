@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=Current/Throttle 1 REF Pin=U9-1
-Removed Pin From Net: NetName=Current/Throttle 2 REF Pin=U9-3
-Removed Pin From Net: NetName=CT2_Filtered Pin=U9-4
-Removed Pin From Net: NetName=CT1_Filtered Pin=U9-8
-Added Pin To Net: NetName=CT1_Filtered Pin=U9-1
-Added Pin To Net: NetName=CT2_Filtered Pin=U9-3
-Added Pin To Net: NetName=Current/Throttle 2 REF Pin=U9-4
-Added Pin To Net: NetName=Current/Throttle 1 REF Pin=U9-8
-Added Room: Name=PlausibilityTrigger

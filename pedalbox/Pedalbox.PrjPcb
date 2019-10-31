@@ -317,26 +317,6 @@ DItemRevisionGUID=
 DocumentPath=PedalBox 10-18-2019 11-51-05 PM.WAS
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=PedalBox 10-19-2019 1-01-48 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=PedalBox 10-19-2019 1-38-54 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=PedalBox 10-19-2019 1-54-07 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=PedalBox 10-20-2019 1-12-49 AM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=PedalBox 10-20-2019 1-53-20 AM.WAS
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -456,7 +436,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPIEEF092 (HP LaserJet M402n)
+TargetPrinter=Brother MFC-J995DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1288,19 +1268,19 @@ Order0=1
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\WNCRZMJJ
+UniqueIDPath1=\YJMVRQLS
 DocumentName1=12V_to_5V_LDO_1A.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=25
+Order1=2
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\IJKTEQRH
+UniqueIDPath2=\KIOEJPUX
 DocumentName2=12V_to_5V_LDO_1A.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=26
+Order2=3
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
