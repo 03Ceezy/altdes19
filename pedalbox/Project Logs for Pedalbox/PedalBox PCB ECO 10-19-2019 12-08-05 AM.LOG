@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=AGND Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C3-1
+Removed Pin From Net: NetName=AGND Pin=C4-1
+Removed Pin From Net: NetName=AGND Pin=C5-1
+Removed Pin From Net: NetName=AGND Pin=C11-1
+Removed Pin From Net: NetName=AGND Pin=C12-2
+Removed Pin From Net: NetName=AGND Pin=C?_5V_LDO_Analog-1
+Removed Pin From Net: NetName=AGND Pin=C?_5V_LDO_Digital-1
+Removed Pin From Net: NetName=AGND Pin=Q1-2
+Removed Pin From Net: NetName=AGND Pin=Q2-2
+Removed Pin From Net: NetName=AGND Pin=R1-1
+Removed Pin From Net: NetName=AGND Pin=R2-2
+Removed Pin From Net: NetName=AGND Pin=R7-1
+Removed Pin From Net: NetName=AGND Pin=R8-1
+Removed Pin From Net: NetName=AGND Pin=R18-2
+Removed Pin From Net: NetName=AGND Pin=R?_5V_LDO_Analog-1
+Removed Pin From Net: NetName=AGND Pin=R?_5V_LDO_Digital-1
+Removed Pin From Net: NetName=AGND Pin=U?-2
+Removed Pin From Net: NetName=AGND Pin=U?_5V_LDO_Analog-3
+Removed Pin From Net: NetName=AGND Pin=U?_5V_LDO_Digital-3
+Removed Pin From Net: NetName=AGND Pin=X2-3
+Removed Pin From Net: NetName=AGND Pin=X2-5
+Removed Member From Class: ClassName=VoltageReferenceGen Member=C3
+Removed Member From Class: ClassName=MCUPedalbox Member=C8
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=C8
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=C11
+Removed Member From Class: ClassName=MCUPedalbox Member=C15
+Removed Member From Class: ClassName=VoltageReferenceGen Member=C15
+Removed Member From Class: ClassName=MCUPedalbox Member=C16
+Removed Member From Class: ClassName=VoltageReferenceGen Member=C16
+Removed Member From Class: ClassName=MCUPedalbox Member=C18
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=C18
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=C18
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=C19
+Removed Member From Class: ClassName=CAN_5V Member=C21
+Removed Member From Class: ClassName=RVPOVP Member=C24
+Removed Member From Class: ClassName=BSPD Member=C28
+Removed Member From Class: ClassName=U_PassiveFilter8 Member=C28
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=C29
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=C29
+Removed Member From Class: ClassName=BSPD Member=Q2
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=R1
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R3
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R4
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R5
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R6
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R6
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R8
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R9
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R10
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=R12
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=R12
+Removed Member From Class: ClassName=Brake Pedal Check Member=R13
+Removed Member From Class: ClassName=CAN_5V Member=R13
+Removed Member From Class: ClassName=U_PassiveFilter5 Member=R13
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R16
+Removed Member From Class: ClassName=MCUPedalbox Member=R19
+Removed Member From Class: ClassName=5V_12V_Logic Member=R24
+Removed Member From Class: ClassName=VoltageReferenceGen Member=R24
+Removed Member From Class: ClassName=Current/Throttle Check Member=R32
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=R32
+Removed Member From Class: ClassName=RVPOVP Member=R34
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=R34
+Removed Member From Class: ClassName=BSPD Member=R37
+Removed Member From Class: ClassName=U_PassiveFilter5 Member=R37
+Removed Member From Class: ClassName=Brake_DivergentSignalOffset Member=R40
+Removed Member From Class: ClassName=Brake_DivergentSignalOffset Member=R44
+Removed Member From Class: ClassName=Brake_DivergentSignalOffset Member=R45
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R46
+Removed Member From Class: ClassName=Brake Pedal Check Member=R58
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=R58
+Removed Member From Class: ClassName=5V_12V_Logic Member=R60
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=R60
+Removed Member From Class: ClassName=U_PassiveFilter8 Member=R63
+Removed Member From Class: ClassName=MCUPedalbox Member=R65
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=R65
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=R66
+Removed Member From Class: ClassName=BSPD Member=U7
+Removed Member From Class: ClassName=MCUPedalbox Member=U7
+Removed Member From Class: ClassName=Brake Pedal Check Member=U12
+Removed Member From Class: ClassName=PlausibilityTrigger Member=U12
+Removed Member From Class: ClassName=PlausibilityTrigger Member=U14
+Removed Member From Class: ClassName=BSPD Member=U?
+Removed Member From Class: ClassName=26PinSuperseal Member=X2
+Added Component: Designator=N1(NET_TIE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Drawer_id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "idFuse"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Net Tie"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=N1-2
+Added Pin To Net: NetName=DGND Pin=C3-1
+Added Pin To Net: NetName=DGND Pin=C4-1
+Added Pin To Net: NetName=DGND Pin=C5-1
+Added Pin To Net: NetName=DGND Pin=N1-1
+Added Pin To Net: NetName=DGND Pin=X2-3
+Added Pin To Net: NetName=DGND Pin=X2-5
+Added Net: Name=DGND
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C?_5V_LDO_Analog-1
+Added Pin To Net: NetName=GND Pin=C?_5V_LDO_Digital-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R?_5V_LDO_Analog-1
+Added Pin To Net: NetName=GND Pin=R?_5V_LDO_Digital-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?_5V_LDO_Analog-3
+Added Pin To Net: NetName=GND Pin=U?_5V_LDO_Digital-3
+Added Net: Name=GND
+Added Class: Name=Pedalbox
+Added Member To Class: ClassName=RVPOVP Member=Component C1 capacitor
+Added Member To Class: ClassName=BSPD Member=Component C2 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C4 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C5 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C6 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C7 capacitor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component C9 capacitor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component C10 (C8) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component C12 capacitor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component C13 (C9) capacitor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component C14 (C8) capacitor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component C17 (C9) capacitor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component C20 (C8) capacitor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component C22 (C8) capacitor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component C23 (C9) capacitor
+Added Member To Class: ClassName=U_PassiveFilter8 Member=Component C25 (C9) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C26 (C10) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C27 (C13) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C30 (C16) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C31 (C17) capacitor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C?_5V_LDO_Analog (C?) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C?_5V_LDO_Digital (C?) capacitor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component Q1 MMBT4401
+Added Member To Class: ClassName=BSPD Member=Component Q3 MMBT4401
+Added Member To Class: ClassName=RVPOVP Member=Component R2 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R7 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R8 resistor
+Added Member To Class: ClassName=BSPD Member=Component R10 resistor
+Added Member To Class: ClassName=BSPD Member=Component R11 resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R14 resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R15 resistor
+Added Member To Class: ClassName=CAN_5V Member=Component R17 resistor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component R20 (R22) resistor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component R21 resistor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component R22 resistor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component R23 (R21) resistor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component R25 (R21) resistor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component R26 (R22) resistor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component R27 (R21) resistor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component R28 (R22) resistor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component R29 (R21) resistor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component R30 (R22) resistor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component R31 (R21) resistor
+Added Member To Class: ClassName=U_PassiveFilter8 Member=Component R33 (R21) resistor
+Added Member To Class: ClassName=Brake Pedal Check Member=Component R35 (R19) resistor
+Added Member To Class: ClassName=Brake Pedal Check Member=Component R36 (R20) resistor
+Added Member To Class: ClassName=Current/Throttle Check Member=Component R38 (R20) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R39 (R23) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R41 (R25) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R42 (R26) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R43 (R27) TC33X-2-103E
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R47 (R31) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R48 (R32) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R51 (R35) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R53 (R37) TC33X-2-103E
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R54 (R38) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R55 (R39) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R56 (R40) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R57 (R41) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R59 (R43) resistor
+Added Member To Class: ClassName=Brake_DivergentSignalOffset Member=Component R61 (R39) resistor
+Added Member To Class: ClassName=Brake_DivergentSignalOffset Member=Component R62 (R40) resistor
+Added Member To Class: ClassName=Brake_DivergentSignalOffset Member=Component R64 (R42) resistor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP?_5V_LDO_Analog (TP?) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP?_5V_LDO_Digital (TP?) RCU-0C
+Added Member To Class: ClassName=BSPD Member=Component U1 
+Added Member To Class: ClassName=MCUPedalbox Member=Component U3 MKE18F512VLH16
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U5 LT1018 Dual Comparator
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U8 SN74LVC1G32 OR Gate
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U9 LT1018 Dual Comparator
+Added Member To Class: ClassName=BSPD Member=Component U10 74HC21D AND Gate
+Added Member To Class: ClassName=26PinSuperseal Member=Component X1 
+Added Room: Name=Pedalbox

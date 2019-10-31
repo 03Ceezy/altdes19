@@ -1,0 +1,275 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=U2-1
+Removed Pin From Net: NetName=AGND Pin=U2-2
+Removed Pin From Net: NetName=5Vin Pin=U2-6
+Removed Pin From Net: NetName=4.5V_REF Pin=U2-8
+Removed Pin From Net: NetName=Brake Front Pin=U5-1
+Removed Pin From Net: NetName=AGND Pin=U5-2
+Removed Pin From Net: NetName=5Vin Pin=U5-6
+Removed Pin From Net: NetName=Brake Front REF Pin=U5-8
+Removed Pin From Net: NetName=Current/Throttle 1 REF Pin=U7-1
+Removed Pin From Net: NetName=AGND Pin=U7-2
+Removed Pin From Net: NetName=5Vin Pin=U7-6
+Removed Pin From Net: NetName=Sensor 1_Current/Throttle Check Pin=U7-8
+Removed Pin From Net: NetName=4.5V_REF Pin=U9-1
+Removed Pin From Net: NetName=AGND Pin=U9-2
+Removed Pin From Net: NetName=5Vin Pin=U9-6
+Removed Pin From Net: NetName=Brake Front Pin=U9-8
+Removed Pin From Net: NetName=Brake Front Pin=U11-1
+Removed Pin From Net: NetName=AGND Pin=U11-2
+Removed Pin From Net: NetName=5Vin Pin=U11-6
+Removed Pin From Net: NetName=0.5V_REF Pin=U11-8
+Removed Pin From Net: NetName=4.5V_REF Pin=U12-1
+Removed Pin From Net: NetName=AGND Pin=U12-2
+Removed Pin From Net: NetName=5Vin Pin=U12-6
+Removed Pin From Net: NetName=Sensor 1_Current/Throttle Check Pin=U12-8
+Removed Pin From Net: NetName=Sensor 1_Current/Throttle Check Pin=U14-1
+Removed Pin From Net: NetName=AGND Pin=U14-2
+Removed Pin From Net: NetName=5Vin Pin=U14-6
+Removed Pin From Net: NetName=0.5V_REF Pin=U14-8
+Change Component Designator: OldDesignator=?_5V_LDO_Analog NewDesignator=1
+Change Component Designator: OldDesignator=?_5V_LDO_Digital NewDesignator=2
+Change Component Designator: OldDesignator=C1 NewDesignator=C29
+Change Component Designator: OldDesignator=C2 NewDesignator=C5
+Change Component Designator: OldDesignator=C3 NewDesignator=C8
+Change Component Designator: OldDesignator=C4 NewDesignator=C9
+Change Component Designator: OldDesignator=C5 NewDesignator=C10
+Change Component Designator: OldDesignator=C6 NewDesignator=C11
+Change Component Designator: OldDesignator=C7 NewDesignator=C12
+Change Component Designator: OldDesignator=C8 NewDesignator=C13
+Change Component Designator: OldDesignator=C9 NewDesignator=C14
+Change Component Designator: OldDesignator=C10 NewDesignator=C15
+Change Component Designator: OldDesignator=C11 NewDesignator=C6
+Change Component Designator: OldDesignator=C12 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C17
+Change Component Designator: OldDesignator=C15 NewDesignator=C18
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C20
+Change Component Designator: OldDesignator=C18 NewDesignator=C21
+Change Component Designator: OldDesignator=C19 NewDesignator=C22
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C30
+Change Component Designator: OldDesignator=C27 NewDesignator=C31
+Change Component Designator: OldDesignator=C28 NewDesignator=C32
+Change Component Designator: OldDesignator=C29 NewDesignator=C33
+Change Component Designator: OldDesignator=C30 NewDesignator=C34
+Change Component Designator: OldDesignator=C31 NewDesignator=C35
+Change Component Designator: OldDesignator=C?_5V_LDO_Analog NewDesignator=C1
+Change Component Designator: OldDesignator=C?_5V_LDO_Analog NewDesignator=C2
+Change Component Designator: OldDesignator=C?_5V_LDO_Digital NewDesignator=C3
+Change Component Designator: OldDesignator=C?_5V_LDO_Digital NewDesignator=C4
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=R1 NewDesignator=R36
+Change Component Designator: OldDesignator=R2 NewDesignator=R35
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R44
+Change Component Designator: OldDesignator=R43 NewDesignator=R45
+Change Component Designator: OldDesignator=R44 NewDesignator=R46
+Change Component Designator: OldDesignator=R45 NewDesignator=R47
+Change Component Designator: OldDesignator=R46 NewDesignator=R48
+Change Component Designator: OldDesignator=R47 NewDesignator=R49
+Change Component Designator: OldDesignator=R48 NewDesignator=R50
+Change Component Designator: OldDesignator=R49 NewDesignator=R51
+Change Component Designator: OldDesignator=R50 NewDesignator=R53
+Change Component Designator: OldDesignator=R51 NewDesignator=R55
+Change Component Designator: OldDesignator=R53 NewDesignator=R54
+Change Component Designator: OldDesignator=R54 NewDesignator=R56
+Change Component Designator: OldDesignator=R55 NewDesignator=R57
+Change Component Designator: OldDesignator=R56 NewDesignator=R58
+Change Component Designator: OldDesignator=R57 NewDesignator=R59
+Change Component Designator: OldDesignator=R58 NewDesignator=R60
+Change Component Designator: OldDesignator=R59 NewDesignator=R61
+Change Component Designator: OldDesignator=R60 NewDesignator=R62
+Change Component Designator: OldDesignator=R61 NewDesignator=R63
+Change Component Designator: OldDesignator=R62 NewDesignator=R64
+Change Component Designator: OldDesignator=R63 NewDesignator=R65
+Change Component Designator: OldDesignator=R64 NewDesignator=R66
+Change Component Designator: OldDesignator=R65 NewDesignator=R67
+Change Component Designator: OldDesignator=R66 NewDesignator=R68
+Change Component Designator: OldDesignator=R?_5V_LDO_Analog NewDesignator=R7
+Change Component Designator: OldDesignator=R?_5V_LDO_Digital NewDesignator=R8
+Change Component Designator: OldDesignator=RCU-0C NewDesignator=RCU-1
+Change Component Designator: OldDesignator=RCU-0C NewDesignator=RCU-2
+Change Component Designator: OldDesignator=TP?_5V_LDO_Analog NewDesignator=TP1
+Change Component Designator: OldDesignator=TP?_5V_LDO_Analog NewDesignator=TP2
+Change Component Designator: OldDesignator=TP?_5V_LDO_Digital NewDesignator=TP3
+Change Component Designator: OldDesignator=TP?_5V_LDO_Digital NewDesignator=TP4
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U2 NewDesignator=U6
+Change Component Designator: OldDesignator=U3 NewDesignator=U8
+Change Component Designator: OldDesignator=U5 NewDesignator=U11
+Change Component Designator: OldDesignator=U6 NewDesignator=U10
+Change Component Designator: OldDesignator=U7 NewDesignator=U14
+Change Component Designator: OldDesignator=U8 NewDesignator=U13
+Change Component Designator: OldDesignator=U9 NewDesignator=U16
+Change Component Designator: OldDesignator=U10 NewDesignator=U3
+Change Component Designator: OldDesignator=U11 NewDesignator=U18
+Change Component Designator: OldDesignator=U12 NewDesignator=U20
+Change Component Designator: OldDesignator=U14 NewDesignator=U22
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U?_5V_LDO_Analog NewDesignator=U1
+Change Component Designator: OldDesignator=U?_5V_LDO_Digital NewDesignator=U2
+Added Component: Designator=U5(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U15(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U17(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U19(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U21(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/lin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "LT1018CS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=U5-1
+Added Pin To Net: NetName=AGND Pin=U5-2
+Added Pin To Net: NetName=5Vin Pin=U5-6
+Added Pin To Net: NetName=4.5V_REF Pin=U5-8
+Added Pin To Net: NetName=Brake Front Pin=U9-1
+Added Pin To Net: NetName=AGND Pin=U9-2
+Added Pin To Net: NetName=5Vin Pin=U9-6
+Added Pin To Net: NetName=Brake Front REF Pin=U9-8
+Added Pin To Net: NetName=Current/Throttle 1 REF Pin=U12-1
+Added Pin To Net: NetName=AGND Pin=U12-2
+Added Pin To Net: NetName=5Vin Pin=U12-6
+Added Pin To Net: NetName=Sensor 1_Current/Throttle Check Pin=U12-8
+Added Pin To Net: NetName=4.5V_REF Pin=U15-1
+Added Pin To Net: NetName=AGND Pin=U15-2
+Added Pin To Net: NetName=5Vin Pin=U15-6
+Added Pin To Net: NetName=Brake Front Pin=U15-8
+Added Pin To Net: NetName=Brake Front Pin=U17-1
+Added Pin To Net: NetName=AGND Pin=U17-2
+Added Pin To Net: NetName=5Vin Pin=U17-6
+Added Pin To Net: NetName=0.5V_REF Pin=U17-8
+Added Pin To Net: NetName=4.5V_REF Pin=U19-1
+Added Pin To Net: NetName=AGND Pin=U19-2
+Added Pin To Net: NetName=5Vin Pin=U19-6
+Added Pin To Net: NetName=Sensor 1_Current/Throttle Check Pin=U19-8
+Added Pin To Net: NetName=Sensor 1_Current/Throttle Check Pin=U21-1
+Added Pin To Net: NetName=AGND Pin=U21-2
+Added Pin To Net: NetName=5Vin Pin=U21-6
+Added Pin To Net: NetName=0.5V_REF Pin=U21-8
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR59_1
+Change Net Name : Old Net Name=NetR58_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR63_1 New Net Name=NetR65_1
+Change Net Name : Old Net Name=NetR64_1 New Net Name=NetR66_1
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetU3_6
+Change Net Name : Old Net Name=NetU1_4 New Net Name=NetU3_8
+Change Net Name : Old Net Name=NetU1_12 New Net Name=NetU4_12
+Change Net Name : Old Net Name=NetU1_13 New Net Name=NetU4_13
+Change Net Name : Old Net Name=NetU3_5 New Net Name=NetU7_1
+Change Net Name : Old Net Name=NetU3_14 New Net Name=NetU3_13
+Change Net Name : Old Net Name=NetU3_22 New Net Name=NetU3_10
+Change Net Name : Old Net Name=NetU3_24 New Net Name=NetU3_5
+Change Net Name : Old Net Name=NetU3_45 New Net Name=NetU3_2
+Change Net Name : Old Net Name=NetU3_53 New Net Name=NetU7_4
+Change Net Name : Old Net Name=NetU5_5 New Net Name=NetU10_2
+Change Net Name : Old Net Name=NetU7_5 New Net Name=NetU13_2
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=U8-46
+Added Pin To Net: NetName=NetU3_1 Pin=U15-7
+Added Net: Name=NetU3_1
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Pin To Net: NetName=NetU3_4 Pin=U8-44
+Added Pin To Net: NetName=NetU3_4 Pin=U17-7
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetU3_9 Pin=U3-9
+Added Pin To Net: NetName=NetU3_9 Pin=U8-23
+Added Pin To Net: NetName=NetU3_9 Pin=U19-7
+Added Net: Name=NetU3_9
+Added Pin To Net: NetName=NetU3_12 Pin=U3-12
+Added Pin To Net: NetName=NetU3_12 Pin=U8-15
+Added Pin To Net: NetName=NetU3_12 Pin=U21-7
+Added Net: Name=NetU3_12
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Pin To Net: NetName=NetU4_5 Pin=U5-7
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU9_7 Pin=U9-7
+Added Pin To Net: NetName=NetU9_7 Pin=U10-1
+Added Net: Name=NetU9_7
+Added Pin To Net: NetName=NetU12_7 Pin=U12-7
+Added Pin To Net: NetName=NetU12_7 Pin=U13-1
+Added Net: Name=NetU12_7
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C2 capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C4 (C2) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-1 RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP2 RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP4 (TP2) RCU-0C
+Added Member To Class: ClassName=BSPD Member=Component U5 (U4A) LT1018 Dual Comparator
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U9 (U7A) LT1018 Dual Comparator
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U12 (U10A) LT1018 Dual Comparator
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U15 (U13A) LT1018 Dual Comparator
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U17 (U15A) LT1018 Dual Comparator
+Added Member To Class: ClassName=Current/Throttle Check Member=Component U19 (U13A) LT1018 Dual Comparator
+Added Member To Class: ClassName=Current/Throttle Check Member=Component U21 (U15A) LT1018 Dual Comparator

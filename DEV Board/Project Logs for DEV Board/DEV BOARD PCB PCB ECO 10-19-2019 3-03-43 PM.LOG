@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R6-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R7-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R8-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R9-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R10-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R13-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R14-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R15-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R16-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R17-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R19-1
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R29-2
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=R31-2
+Removed Pin From Net: NetName=NetM1_1 Pin=R?-2
+Removed Pin From Net: NetName=NetM2_1 Pin=R?-2
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-3
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-4
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-20
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-21
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-25
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-26
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-30
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-39
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-42
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-43
+Removed Pin From Net: NetName=B12_ADC1_7_M Pin=U3-44
+Change Component Footprint: Designator=R? Old Footprint=AXIAL-0.3 New Footprint=0603
+Change Component Footprint: Designator=R? Old Footprint=AXIAL-0.3 New Footprint=0603
+Change Component Comment : Designator=R? Old Comment=10K New Comment=resistor
+Change Component Comment : Designator=R? Old Comment=10K New Comment=resistor
+Change component parameters: Designator = "R?"; Footprint = "0603"; UniqueID = "\NFOEHFHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?"; Footprint = "0603"; UniqueID = "\LIKRXBFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetM1_1 Pin=R?-2
+Added Pin To Net: NetName=NetM2_1 Pin=R?-2
+Change Net Name : Old Net Name=B12_ADC1_7_M New Net Name=C15_ADC0_13_M
+Added Pin To Net: NetName=B12_ADC1_7_M Pin=R7-1
+Added Pin To Net: NetName=B12_ADC1_7_M Pin=U3-43
+Added Net: Name=B12_ADC1_7_M
+Added Pin To Net: NetName=B13_ADC1_8_M Pin=R15-1
+Added Pin To Net: NetName=B13_ADC1_8_M Pin=U3-42
+Added Net: Name=B13_ADC1_8_M
+Added Pin To Net: NetName=C0_ADC0_8_M Pin=R13-1
+Added Pin To Net: NetName=C0_ADC0_8_M Pin=U3-26
+Added Net: Name=C0_ADC0_8_M
+Added Pin To Net: NetName=C1_ADC0_9_M Pin=R10-1
+Added Pin To Net: NetName=C1_ADC0_9_M Pin=U3-25
+Added Net: Name=C1_ADC0_9_M
+Added Pin To Net: NetName=C2_ADC0_10_M Pin=R9-1
+Added Pin To Net: NetName=C2_ADC0_10_M Pin=U3-21
+Added Net: Name=C2_ADC0_10_M
+Added Pin To Net: NetName=C3_ADC0_11_M Pin=R8-1
+Added Pin To Net: NetName=C3_ADC0_11_M Pin=U3-20
+Added Net: Name=C3_ADC0_11_M
+Added Pin To Net: NetName=C14_ADC0_12_M Pin=R19-1
+Added Pin To Net: NetName=C14_ADC0_12_M Pin=U3-30
+Added Net: Name=C14_ADC0_12_M
+Added Pin To Net: NetName=D4_ADC1_6_M Pin=R6-1
+Added Pin To Net: NetName=D4_ADC1_6_M Pin=R31-2
+Added Pin To Net: NetName=D4_ADC1_6_M Pin=U3-44
+Added Net: Name=D4_ADC1_6_M
+Added Pin To Net: NetName=E7_ADC2_2_M Pin=R14-1
+Added Pin To Net: NetName=E7_ADC2_2_M Pin=U3-39
+Added Net: Name=E7_ADC2_2_M
+Added Pin To Net: NetName=E10_ADC2_12_M Pin=R17-1
+Added Pin To Net: NetName=E10_ADC2_12_M Pin=U3-4
+Added Net: Name=E10_ADC2_12_M
+Added Pin To Net: NetName=E11_ADC2_13_M Pin=R16-1
+Added Pin To Net: NetName=E11_ADC2_13_M Pin=R29-2
+Added Pin To Net: NetName=E11_ADC2_13_M Pin=U3-3
+Added Net: Name=E11_ADC2_13_M
+Added Member To Class: ClassName=DEV Board Member=Component R? resistor
