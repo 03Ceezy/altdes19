@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change component parameters: Designator = "R12"; Footprint = "0603"; UniqueID = "\NFOEHFHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "0603"; UniqueID = "\LIKRXBFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=F1-1
+Added Pin To Net: NetName=PWR_IN Pin=F1-2
+Added Member To Class: ClassName=DEV Board Member=Component R12 resistor

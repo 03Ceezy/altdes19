@@ -1,0 +1,222 @@
+Removed Member From Class: ClassName=MCUPedalbox Member=C2
+Removed Member From Class: ClassName=CAN_5V Member=C5
+Removed Member From Class: ClassName=RVPOVP Member=C6
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=C6
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=C6
+Removed Member From Class: ClassName=5V_LDO_Digital Member=C8
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=C9
+Removed Member From Class: ClassName=5V_LDO_Analog Member=C17
+Removed Member From Class: ClassName=U_PassiveFilter5 Member=C24
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=C24
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=C26
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=C26
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=C27
+Removed Member From Class: ClassName=U_PassiveFilter8 Member=C27
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=C28
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=C29
+Removed Member From Class: ClassName=5V_LDO_Analog Member=C31
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=C31
+Removed Member From Class: ClassName=BSPD Member=C32
+Removed Member From Class: ClassName=MCUPedalbox Member=C32
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=C32
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=C33
+Removed Member From Class: ClassName=MCUPedalbox Member=C34
+Removed Member From Class: ClassName=RVPOVP Member=D5
+Removed Member From Class: ClassName=RVPOVP Member=M1
+Removed Member From Class: ClassName=Brake_DivergentSignalOffset Member=R2
+Removed Member From Class: ClassName=MCUPedalbox Member=R2
+Removed Member From Class: ClassName=CAN_5V Member=R3
+Removed Member From Class: ClassName=MCUPedalbox Member=R4
+Removed Member From Class: ClassName=MCUPedalbox Member=R5
+Removed Member From Class: ClassName=CAN_5V Member=R6
+Removed Member From Class: ClassName=MCUPedalbox Member=R8
+Removed Member From Class: ClassName=RVPOVP Member=R11
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R14
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=R14
+Removed Member From Class: ClassName=Brake Pedal Check Member=R16
+Removed Member From Class: ClassName=Current/Throttle Check Member=R17
+Removed Member From Class: ClassName=BSPD Member=R20
+Removed Member From Class: ClassName=U_PassiveFilter8 Member=R21
+Removed Member From Class: ClassName=5V_12V_Logic Member=R25
+Removed Member From Class: ClassName=5V_12V_Logic Member=R29
+Removed Member From Class: ClassName=MCUPedalbox Member=R29
+Removed Member From Class: ClassName=BSPD Member=R30
+Removed Member From Class: ClassName=Pedalbox Member=R30
+Removed Member From Class: ClassName=5V_LDO_Digital Member=R32
+Removed Member From Class: ClassName=BSPD Member=R32
+Removed Member From Class: ClassName=CAN_5V Member=R32
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R33
+Removed Member From Class: ClassName=5V_LDO_Analog Member=R37
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R40
+Removed Member From Class: ClassName=Current/Throttle Check Member=R40
+Removed Member From Class: ClassName=Brake_DivergentSignalOffset Member=R44
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=R44
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R49
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=R51
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R54
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=R54
+Removed Member From Class: ClassName=5V_12V_Logic Member=R57
+Removed Member From Class: ClassName=5V_LDO_Analog Member=R57
+Removed Member From Class: ClassName=MCUPedalbox Member=R57
+Removed Member From Class: ClassName=Accel_DivergentSignalOffset Member=R58
+Removed Member From Class: ClassName=Pedalbox Member=R58
+Removed Member From Class: ClassName=U_PassiveFilter5 Member=R59
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=R61
+Removed Member From Class: ClassName=U_PassiveFilter1 Member=R62
+Removed Member From Class: ClassName=U_PassiveFilter8 Member=R63
+Removed Member From Class: ClassName=U_PassiveFilter6 Member=R65
+Removed Member From Class: ClassName=Brake Pedal Check Member=R67
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=R67
+Removed Member From Class: ClassName=U_PassiveFilter7 Member=R68
+Removed Member From Class: ClassName=5V_12V_Logic Member=R70
+Removed Member From Class: ClassName=U_PassiveFilter3 Member=R70
+Removed Member From Class: ClassName=U_PassiveFilter4 Member=R71
+Removed Member From Class: ClassName=BSPD Member=R72
+Removed Member From Class: ClassName=U_PassiveFilter2 Member=R72
+Removed Member From Class: ClassName=U_PassiveFilter5 Member=R72
+Removed Member From Class: ClassName=5V_LDO_Digital Member=R75
+Removed Member From Class: ClassName=BSPD Member=R75
+Removed Member From Class: ClassName=MCUPedalbox Member=R75
+Removed Member From Class: ClassName=5V_12V_Logic Member=R76
+Removed Member From Class: ClassName=MCUPedalbox Member=R76
+Removed Member From Class: ClassName=MCUPedalbox Member=R78
+Removed Member From Class: ClassName=MCUPedalbox Member=R79
+Removed Member From Class: ClassName=5V_LDO_Digital Member=TP1
+Removed Member From Class: ClassName=5V_LDO_Analog Member=TP4
+Removed Member From Class: ClassName=MCUPedalbox Member=U1
+Removed Member From Class: ClassName=CAN_5V Member=U4
+Removed Member From Class: ClassName=5V_LDO_Digital Member=U5
+Removed Member From Class: ClassName=Brake Pedal Check Member=U12
+Removed Member From Class: ClassName=PlausibilityTrigger Member=U13
+Removed Member From Class: ClassName=BSPD Member=U16
+Removed Member From Class: ClassName=Brake Pedal Check Member=U18
+Removed Member From Class: ClassName=5V_LDO_Analog Member=U22
+Removed Member From Class: ClassName=Current/Throttle Check Member=U22
+Removed Member From Class: ClassName=26PinSuperseal Member=X2
+Change Class Name : Old Net Name=Brake_DivergentSignalOffset New Net Name=VoltageReferenceGen
+Added Class: Name=Brake_DivergentSignalOffset
+Added Member To Class: ClassName=BSPD Member=Component C1 (C3) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component C2 (C10) capacitor
+Added Member To Class: ClassName=CAN_5V Member=Component C3 (C11) capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C5 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C6 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C7 capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component C8 capacitor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component C9 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component C10 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component C11 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component C12 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component C13 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component C14 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component C15 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component C16 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component C17 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component C18 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component C19 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component C20 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component C21 (C12) capacitor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component C22 (C13) capacitor
+Added Member To Class: ClassName=U_PassiveFilter8 Member=Component C24 (C13) capacitor
+Added Member To Class: ClassName=RVPOVP Member=Component C25 (C9) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C26 (C14) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C27 (C15) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C28 (C16) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C29 (C17) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C30 (C18) capacitor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component C31 (C19) capacitor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C32 (C1) capacitor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C33 (C2) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C35 (C2) capacitor
+Added Member To Class: ClassName=MCUPedalbox Member=Component D1 LED
+Added Member To Class: ClassName=MCUPedalbox Member=Component D2 LED
+Added Member To Class: ClassName=RVPOVP Member=Component D6 
+Added Member To Class: ClassName=MCUPedalbox Member=Component M3 
+Added Member To Class: ClassName=RVPOVP Member=Component M4 PSMN2R2-25YLC
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R1 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R2 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R3 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R4 resistor
+Added Member To Class: ClassName=5V_12V_Logic Member=Component R5 resistor
+Added Member To Class: ClassName=BSPD Member=Component R7 (R9) resistor
+Added Member To Class: ClassName=BSPD Member=Component R8 (R10) resistor
+Added Member To Class: ClassName=BSPD Member=Component R9 (R11) resistor
+Added Member To Class: ClassName=BSPD Member=Component R10 (R12) resistor
+Added Member To Class: ClassName=BSPD Member=Component R11 (R13) resistor
+Added Member To Class: ClassName=CAN_5V Member=Component R12 (R30) resistor
+Added Member To Class: ClassName=CAN_5V Member=Component R13 (R31) resistor
+Added Member To Class: ClassName=CAN_5V Member=Component R14 (R32) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R15 (R14) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R16 (R15) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R17 (R16) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R18 (R17) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R19 (R18) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R20 (R19) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R21 (R20) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R22 (R21) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R23 (R22) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R24 (R23) resistor
+Added Member To Class: ClassName=MCUPedalbox Member=Component R25 (R24) resistor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component R26 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter1 Member=Component R27 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component R28 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter2 Member=Component R29 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component R30 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter3 Member=Component R31 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component R32 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter4 Member=Component R33 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component R34 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter5 Member=Component R35 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component R36 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter6 Member=Component R37 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component R38 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter7 Member=Component R39 (R34) resistor
+Added Member To Class: ClassName=U_PassiveFilter8 Member=Component R40 (R33) resistor
+Added Member To Class: ClassName=U_PassiveFilter8 Member=Component R41 (R34) resistor
+Added Member To Class: ClassName=Pedalbox Member=Component R42 (R25) resistor
+Added Member To Class: ClassName=Pedalbox Member=Component R43 (R26) resistor
+Added Member To Class: ClassName=RVPOVP Member=Component R44 (R27) resistor
+Added Member To Class: ClassName=Brake Pedal Check Member=Component R45 (R28) resistor
+Added Member To Class: ClassName=Brake Pedal Check Member=Component R46 (R29) resistor
+Added Member To Class: ClassName=Current/Throttle Check Member=Component R47 (R28) resistor
+Added Member To Class: ClassName=Current/Throttle Check Member=Component R48 (R29) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R49 (R35) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R50 (R36) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R52 (R38) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R54 (R40) TC33X-2-103E
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R56 (R42) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R57 (R43) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R58 (R44) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R60 (R46) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R61 (R47) TC33X-2-103E
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R62 (R48) TC33X-2-103E
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R63 (R49) resistor
+Added Member To Class: ClassName=VoltageReferenceGen Member=Component R64 (R50) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R65 (R51) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R66 (R52) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R67 (R53) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R68 (R54) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R69 (R55) resistor
+Added Member To Class: ClassName=Accel_DivergentSignalOffset Member=Component R70 (R56) resistor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component R77 (R7) resistor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component R78 (R8) resistor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component R79 (R7) resistor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component R80 (R8) resistor
+Added Member To Class: ClassName=CAN_5V Member=Component RCU-1 RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP1 RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP2 RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP3 (TP1) RCU-0C
+Added Member To Class: ClassName=BSPD Member=Component U2 (U3A) 
+Added Member To Class: ClassName=CAN_5V Member=Component U5 (U17) MCP2561 CAN Transceiver
+Added Member To Class: ClassName=MCUPedalbox Member=Component U6 MKE18F512VLH16
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U7 LT1018 Dual Comparator
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U10 LT1018 Dual Comparator
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U11 SN74LVC1G32 OR Gate
+Added Member To Class: ClassName=PlausibilityTrigger Member=Component U12 LT1018 Dual Comparator
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U13 LT1018 Dual Comparator
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U14 LT1018 Dual Comparator
+Added Member To Class: ClassName=Brake Pedal Check Member=Component U15 LT1018 Dual Comparator
+Added Member To Class: ClassName=Current/Throttle Check Member=Component U19 (U15A) LT1018 Dual Comparator
+Added Member To Class: ClassName=Current/Throttle Check Member=Component U20 (U16A) LT1018 Dual Comparator
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component U21 (U1) LDO-5Pin
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component U22 (U1) LDO-5Pin
+Added Member To Class: ClassName=26PinSuperseal Member=Component X1 

@@ -1,0 +1,258 @@
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=1-1
+Removed Pin From Net: NetName=5Vin Pin=1-2
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=2-1
+Removed Pin From Net: NetName=Digital 5V Pin=2-2
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=C1-1
+Removed Pin From Net: NetName=5Vin Pin=C1-2
+Removed Pin From Net: NetName=DGND Pin=C2-1
+Removed Pin From Net: NetName=12V Rail Pin=C2-2
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=C3-1
+Removed Pin From Net: NetName=Digital 5V Pin=C3-2
+Removed Pin From Net: NetName=DGND Pin=C4-1
+Removed Pin From Net: NetName=12V Rail Pin=C4-2
+Removed Pin From Net: NetName=DGND Pin=R7-1
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=R7-2
+Removed Pin From Net: NetName=DGND Pin=R8-1
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=R8-2
+Removed Pin From Net: NetName=5Vin Pin=TP1-1
+Removed Pin From Net: NetName=12V Rail Pin=TP2-1
+Removed Pin From Net: NetName=Digital 5V Pin=TP3-1
+Removed Pin From Net: NetName=12V Rail Pin=TP4-1
+Removed Pin From Net: NetName=12V Rail Pin=U1-1
+Removed Pin From Net: NetName=5Vin Pin=U1-2
+Removed Pin From Net: NetName=DGND Pin=U1-3
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=U1-4
+Removed Pin From Net: NetName=12V Rail Pin=U1-5
+Removed Pin From Net: NetName=12V Rail Pin=U2-1
+Removed Pin From Net: NetName=Digital 5V Pin=U2-2
+Removed Pin From Net: NetName=DGND Pin=U2-3
+Removed Pin From Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=U2-4
+Removed Pin From Net: NetName=12V Rail Pin=U2-5
+Removed Member From Class: ClassName=5V_LDO_Analog Member=1
+Removed Member From Class: ClassName=5V_LDO_Digital Member=2
+Removed Member From Class: ClassName=5V_LDO_Analog Member=C1
+Removed Member From Class: ClassName=5V_LDO_Analog Member=C2
+Removed Member From Class: ClassName=5V_LDO_Digital Member=C3
+Removed Member From Class: ClassName=5V_LDO_Digital Member=C4
+Removed Member From Class: ClassName=5V_LDO_Analog Member=R7
+Removed Member From Class: ClassName=5V_LDO_Digital Member=R8
+Removed Member From Class: ClassName=5V_LDO_Analog Member=TP1
+Removed Member From Class: ClassName=5V_LDO_Analog Member=TP2
+Removed Member From Class: ClassName=5V_LDO_Digital Member=TP3
+Removed Member From Class: ClassName=5V_LDO_Digital Member=TP4
+Removed Member From Class: ClassName=5V_LDO_Analog Member=U1
+Removed Member From Class: ClassName=5V_LDO_Digital Member=U2
+Added Component: Designator=C1_5V_LDO_Analog(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capacitance"; Value = "0.01uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dielectric"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C1_5V_LDO_Digital(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capacitance"; Value = "0.01uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dielectric"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C2_5V_LDO_Analog(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dielectric"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C2_5V_LDO_Digital(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capacitance"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "dielectric"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=D?(0805_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0805 LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcircuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vr"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=D?(0805_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0805 LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcircuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "vr"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R1_5V_LDO_Analog(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "43k"; VariantName = "[No Variations]"
+Added Component: Designator=R1_5V_LDO_Digital(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "43k"; VariantName = "[No Variations]"
+Added Component: Designator=R7_5V_LDO_Analog(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "15k"; VariantName = "[No Variations]"
+Added Component: Designator=R7_5V_LDO_Digital(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "15k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1000"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "0603 Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "percent tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1000"; VariantName = "[No Variations]"
+Added Component: Designator=TP1_5V_LDO_Analog(RCU-0C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcontacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numrows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=TP1_5V_LDO_Digital(RCU-0C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcontacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numrows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=TP2_5V_LDO_Analog(RCU-0C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcontacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numrows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=TP2_5V_LDO_Digital(RCU-0C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numcontacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "numrows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U1_5V_LDO_Analog(SOT223-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imax"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/REG104GA-A/REG104GA-A-ND/380288?utm_adgroup=Integrated%20Circuits&slid=&gclid=CjwKCAjwpKveBRAwEiwAo4Pqm3P1cbCGhU8VzQ4hsaig_pQLQzWQ1vPK7ianKpgKPxk_g8_0T-ULMBoCGh8QAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "REG104GA-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "SOT-223-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U1_5V_LDO_Digital(SOT223-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "imax"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/REG104GA-A/REG104GA-A-ND/380288?utm_adgroup=Integrated%20Circuits&slid=&gclid=CjwKCAjwpKveBRAwEiwAo4Pqm3P1cbCGhU8VzQ4hsaig_pQLQzWQ1vPK7ianKpgKPxk_g8_0T-ULMBoCGh8QAvD_BwE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "name"; Value = "REG104GA-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "SOT-223-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "quantity"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=C1_5V_LDO_Analog-1
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=C1_5V_LDO_Digital-1
+Added Pin To Net: NetName=DGND Pin=C2_5V_LDO_Analog-1
+Added Pin To Net: NetName=12V Rail Pin=C2_5V_LDO_Analog-2
+Added Pin To Net: NetName=DGND Pin=C2_5V_LDO_Digital-1
+Added Pin To Net: NetName=12V Rail Pin=C2_5V_LDO_Digital-2
+Added Pin To Net: NetName=AGND Pin=D?-2
+Added Pin To Net: NetName=DGND Pin=D?-2
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=R1_5V_LDO_Analog-1
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=R1_5V_LDO_Digital-1
+Added Pin To Net: NetName=DGND Pin=R7_5V_LDO_Analog-1
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=R7_5V_LDO_Analog-2
+Added Pin To Net: NetName=DGND Pin=R7_5V_LDO_Digital-1
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=R7_5V_LDO_Digital-2
+Added Pin To Net: NetName=5Vin Pin=R?-1
+Added Pin To Net: NetName=Digital 5V Pin=R?-1
+Added Pin To Net: NetName=12V Rail Pin=TP2_5V_LDO_Analog-1
+Added Pin To Net: NetName=12V Rail Pin=TP2_5V_LDO_Digital-1
+Added Pin To Net: NetName=12V Rail Pin=U1_5V_LDO_Analog-1
+Added Pin To Net: NetName=DGND Pin=U1_5V_LDO_Analog-3
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Analog Pin=U1_5V_LDO_Analog-4
+Added Pin To Net: NetName=12V Rail Pin=U1_5V_LDO_Analog-5
+Added Pin To Net: NetName=12V Rail Pin=U1_5V_LDO_Digital-1
+Added Pin To Net: NetName=DGND Pin=U1_5V_LDO_Digital-3
+Added Pin To Net: NetName=LDO_ADJ_5V_LDO_Digital Pin=U1_5V_LDO_Digital-4
+Added Pin To Net: NetName=12V Rail Pin=U1_5V_LDO_Digital-5
+Change Net Name : Old Net Name=Digital 5V New Net Name=VDD
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Analog Pin=C1_5V_LDO_Analog-2
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Analog Pin=R1_5V_LDO_Analog-2
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Analog Pin=TP1_5V_LDO_Analog-1
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Analog Pin=U1_5V_LDO_Analog-2
+Added Net: Name=LDO_OUT_5V_LDO_Analog
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Digital Pin=C1_5V_LDO_Digital-2
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Digital Pin=R1_5V_LDO_Digital-2
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Digital Pin=TP1_5V_LDO_Digital-1
+Added Pin To Net: NetName=LDO_OUT_5V_LDO_Digital Pin=U1_5V_LDO_Digital-2
+Added Net: Name=LDO_OUT_5V_LDO_Digital
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C1_5V_LDO_Analog (C1) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C1_5V_LDO_Digital (C1) capacitor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component C2_5V_LDO_Analog (C2) capacitor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component C2_5V_LDO_Digital (C2) capacitor
+Added Member To Class: ClassName=Pedalbox Member=Component D? LED
+Added Member To Class: ClassName=Pedalbox Member=Component D? LED
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component R1_5V_LDO_Analog (R1) resistor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component R1_5V_LDO_Digital (R1) resistor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component R7_5V_LDO_Analog (R7) resistor
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component R7_5V_LDO_Digital (R7) resistor
+Added Member To Class: ClassName=Pedalbox Member=Component R? resistor
+Added Member To Class: ClassName=Pedalbox Member=Component R? resistor
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP1_5V_LDO_Analog (TP1) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP1_5V_LDO_Digital (TP1) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component TP2_5V_LDO_Analog (TP2) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component TP2_5V_LDO_Digital (TP2) RCU-0C
+Added Member To Class: ClassName=5V_LDO_Analog Member=Component U1_5V_LDO_Analog (U1) LDO-5Pin
+Added Member To Class: ClassName=5V_LDO_Digital Member=Component U1_5V_LDO_Digital (U1) LDO-5Pin
