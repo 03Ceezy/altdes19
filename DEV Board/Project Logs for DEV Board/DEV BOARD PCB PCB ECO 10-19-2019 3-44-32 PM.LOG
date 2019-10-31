@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Member To Class: ClassName=DEV Board Member=Component R? resistor
