@@ -377,11 +377,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=HP OfficeJet 5200 series PCL-3
-=======
 TargetPrinter=HP072FD2 (HP ENVY 5000 series)
->>>>>>> f9f0663313cd731380f13e17f76de16c2342a8a1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
