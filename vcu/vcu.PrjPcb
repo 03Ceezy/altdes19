@@ -258,14 +258,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for vcu\Design Rule Check - vcu.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=MessageListReport.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -385,7 +377,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON XP-430 Series
+TargetPrinter=HP072FD2 (HP ENVY 5000 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
