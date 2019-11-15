@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBox.PcbDoc
+Date     : 11/15/2019
+Time     : 1:42:41 AM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.2mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.167mm < 0.2mm) Between Pad R26-1(61.075mm,26.15mm) on Bottom Layer And Via (61.072mm,25mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.167mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.2mm) Between Pad TP5-1(78.9mm,13.6mm) on Top Layer And Pad TP6-1(78.9mm,16mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.2mm) Between Pad U7-1(28mm,28.25mm) on Top Layer And Pad U7-2(27.05mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.2mm) Between Pad U7-2(27.05mm,28.25mm) on Top Layer And Pad U7-3(26.1mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.2mm) Between Pad U9-1(27.95mm,20.775mm) on Top Layer And Pad U9-2(27mm,20.775mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.147mm < 0.2mm) Between Pad U9-2(27mm,20.775mm) on Top Layer And Pad U9-3(26.05mm,20.775mm) on Top Layer [Top Solder] Mask Sliver [0.147mm]
+Rule Violations :6
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Arc (73.799mm,0.203mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Area Fill (12mm,0mm) (24mm,12mm) on Top Layer And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Area Fill (12mm,32.45mm) (24mm,44.45mm) on Top Layer And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "Design and Layout by:
+Kevin Jung
+Marc Wong" (62.648mm,36.843mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (101.561mm,2.475mm)(101.561mm,41.941mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,2.475mm)(101.5mm,2.475mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,41.975mm)(101.5mm,41.975mm) on Top Overlay 
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mm) (Max=38.1mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Net 12V Rail Between Track (81.9mm,8.575mm)(84.76mm,8.575mm) on Bottom Layer And Pad U14-5(89.84mm,9.175mm) on Bottom Layer Waived by Kevin Jung at 11/15/2019 1:42:33 AMNot needed, shorted internally
+Waived Violations :1
+
+
+Violations Detected : 13
+Waived Violations : 1
+Time Elapsed        : 00:00:01
