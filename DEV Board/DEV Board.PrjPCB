@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UEABJTHN
 
 [Document5]
-DocumentPath=HVP_ADC_CONNECTIONS.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SEVQPMAR
-
-[Document6]
 DocumentPath=DEV BOARD PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFOBHWBS
 
-[Document7]
+[Document6]
 DocumentPath=gerbers-2019-11-14\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=gerbers-2019-11-14\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -178,142 +161,74 @@ DocumentPath=Project Outputs for DEV Board\Design Rule Check - DEV BOARD PCB.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for DEV Board\DEV BOARD PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -436,7 +351,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP93E87E (HP ENVY 4500 series)
+TargetPrinter=HPE09BFC (HP Officejet 5740 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -530,86 +445,78 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP93E87E (HP ENVY 4500 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_HighLayer=Top Layer|PlotDrillDrawingPair0_LowLayer=Bottom Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_HighLayer=Top Layer|PlotDrillGuidePair0_LowLayer=Bottom Layer|PlotDrillGuidePairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-Configuration10_Name1=ForceUpdateSettings
-Configuration10_Item1=False
-Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_HighLayer=Top Layer|PlotDrillDrawingPair0_LowLayer=Bottom Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_HighLayer=Top Layer|PlotDrillGuidePair0_LowLayer=Bottom Layer|PlotDrillGuidePairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1,16973848~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
-Configuration12_Name1=ForceUpdateSettings
-Configuration12_Item1=False
-Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
