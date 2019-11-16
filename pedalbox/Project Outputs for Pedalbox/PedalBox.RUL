@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBox.PcbDoc
+DRC Rules Export File for PCB: C:\Users\cpracing\Documents\GitHub\altdes19\pedalbox\PedalBox.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
