@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PedalBox.GBR   11/15/2019  1:56:21 AM
+Gerber File Extension Report For: PedalBox.GBR   11/2/2019  3:19:30 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,9 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
-.GM2                Assembly Top                            
-.GM5                Courtyard Top                           
-.GM7                3D Body Top                             
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GPT                Top Pad Master                          
