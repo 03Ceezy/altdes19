@@ -38,13 +38,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=TopLevelSketch.SchDoc
+DocumentPath=FTDI_USB_UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HRPPTWDA
+DocumentUniqueId=ATASQLEU
 
 [Document2]
 DocumentPath=MKE1xFxxxVLH.SchDoc
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -78,7 +78,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -95,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -112,7 +112,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -123,30 +123,13 @@ GenerateClassCluster=0
 DocumentUniqueId=FNBOPRBF
 
 [Document6]
-DocumentPath=DTM12PIN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NHTNRFLE
-
-[Document7]
 DocumentPath=7_SEGMENT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -156,14 +139,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTDXRMNI
 
-[Document8]
+[Document7]
 DocumentPath=LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -173,14 +156,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQBYSIYA
 
-[Document9]
+[Document8]
 DocumentPath=WARNING_LEDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -190,8 +173,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCJUXQJM
 
-[Document10]
+[Document9]
 DocumentPath=LED_Driver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FQOQOKXO
+
+[Document10]
+DocumentPath=Dashboard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RAXVLGGF
+
+[Document11]
+DocumentPath=WheelInputConditioning.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWNBQICA
+
+[Document12]
+DocumentPath=DashboardBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +239,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FQOQOKXO
+DocumentUniqueId=LJGUBIBQ
+
+[Document13]
+DocumentPath=Dashboard Board.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=26PinSuperseal.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KKKJTKSL
 
 [Configuration1]
 Name=Sources
@@ -220,7 +288,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -326,7 +394,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -398,7 +466,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -420,7 +488,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -492,7 +560,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -529,7 +597,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -709,7 +777,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -744,11 +812,16 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -799,7 +872,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=mustang 60
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -924,6 +997,7 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -991,6 +1065,7 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1145,6 +1220,198 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=\RUEFTNVK
+DocumentName0=7_SEGMENT.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=\ANSZYKQU
+DocumentName1=12V_to_5V_LDO_1A.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=2
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=\ABZGXOAM
+DocumentName2=26PinSuperseal.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=25
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=\GTDLFFWC
+DocumentName3=CAN_5V.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=3
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=
+DocumentName4=Dashboard.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=4
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=\XUGBTGMK\ATMDOSUU
+DocumentName5=FTDI_USB_UART.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=5
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=\QBLQATKH
+DocumentName6=LCD.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=6
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=\RUEFTNVK\BROEWHJM
+DocumentName7=LED_Driver.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=7
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=\RUEFTNVK\DSUKQSPR
+DocumentName8=LED_Driver.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=8
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=\RUEFTNVK\IKWTKVQL
+DocumentName9=LED_Driver.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=9
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=\RUEFTNVK\HLEVDLBJ
+DocumentName10=LED_Driver.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=10
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=\RUEFTNVK\YABUCSON
+DocumentName11=LED_Driver.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=11
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=\RUEFTNVK\GMBLUBDP
+DocumentName12=LED_Driver.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=12
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\RUEFTNVK\MTDBPRZF
+DocumentName13=LED_Driver.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=13
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=\RUEFTNVK\AIJBBZFO
+DocumentName14=LED_Driver.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=14
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
+UniqueIDPath15=\QBLQATKH\CZHTOFVY
+DocumentName15=LED_Driver.SchDoc
+IsEnabled15=1
+SelectionScope15=All
+Order15=15
+IndexEnabled15=0
+IndexStartValue15=1
+Suffix15=
+UniqueIDPath16=\OMAVDNNF\RGBYUJCW
+DocumentName16=LED_Driver.SchDoc
+IsEnabled16=1
+SelectionScope16=All
+Order16=16
+IndexEnabled16=0
+IndexStartValue16=1
+Suffix16=
+UniqueIDPath17=\OMAVDNNF\IUFWISGU
+DocumentName17=LED_Driver.SchDoc
+IsEnabled17=1
+SelectionScope17=All
+Order17=17
+IndexEnabled17=0
+IndexStartValue17=1
+Suffix17=
+UniqueIDPath18=\OMAVDNNF\TSGQTTJB
+DocumentName18=LED_Driver.SchDoc
+IsEnabled18=1
+SelectionScope18=All
+Order18=18
+IndexEnabled18=0
+IndexStartValue18=1
+Suffix18=
+UniqueIDPath19=\OMAVDNNF\YNFFDHHM
+DocumentName19=LED_Driver.SchDoc
+IsEnabled19=1
+SelectionScope19=All
+Order19=19
+IndexEnabled19=0
+IndexStartValue19=1
+Suffix19=
+UniqueIDPath20=\XUGBTGMK
+DocumentName20=MKE1xFxxxVLH.SchDoc
+IsEnabled20=1
+SelectionScope20=All
+Order20=20
+IndexEnabled20=0
+IndexStartValue20=1
+Suffix20=
+UniqueIDPath21=\JCGLJDST
+DocumentName21=RVPOVP.SchDoc
+IsEnabled21=1
+SelectionScope21=All
+Order21=22
+IndexEnabled21=0
+IndexStartValue21=1
+Suffix21=
+UniqueIDPath22=\OMAVDNNF
+DocumentName22=WARNING_LEDS.SchDoc
+IsEnabled22=1
+SelectionScope22=All
+Order22=23
+IndexEnabled22=0
+IndexStartValue22=1
+Suffix22=
+UniqueIDPath23=\SVOULRTN
+DocumentName23=WheelInputConditioning.SchDoc
+IsEnabled23=1
+SelectionScope23=All
+Order23=24
+IndexEnabled23=0
+IndexStartValue23=1
+Suffix23=
 
 [PrjClassGen]
 CompClassManualEnabled=0
