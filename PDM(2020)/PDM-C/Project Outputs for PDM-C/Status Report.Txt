@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [PDM-C.PrjPcb]
+   Generated File[PDM-C_Rev2_Copper_Signal_Top.gbr]
+   Generated File[PDM-C_Rev2_Copper_Signal_Bot.gbr]
+   Generated File[PDM-C_Rev2_Pads_Bot.gbr]
+   Generated File[PDM-C_Rev2_Pads_Top.gbr]
+   Generated File[PDM-C_Rev2_Legend_Bot.gbr]
+   Generated File[PDM-C_Rev2_Soldermask_Bot.gbr]
+   Generated File[PDM-C_Rev2_Paste_Bot.gbr]
+   Generated File[PDM-C_Rev2_Legend_Top.gbr]
+   Generated File[PDM-C_Rev2_Paste_Top.gbr]
+   Generated File[PDM-C_Rev2_Soldermask_Top.gbr]
+   Generated File[PDM-C_Rev2_Profile.gbr]
+   Generated File[PDM-C_Rev2_NPTH_Drill.gbr]
+   Generated File[PDM-C_Rev2_PTH_Drill.gbr]
+   Generated File[PDM-C_Rev2_Drawing_1.gbr]
+   Generated File[PDM-C_Rev2_Drillmap_1.gbr]
+   Generated File[PDM-C_Rev2.RUL]
+   Generated File[PDM-C_Rev2.EXTREP]
+   Generated File[PDM-C_Rev2.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 5:50:37 PM On 3/6/2019
