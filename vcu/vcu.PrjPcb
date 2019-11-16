@@ -258,6 +258,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for vcu\Design Rule Check - vcu.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=MessageListReport.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -377,7 +385,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP072FD2 (HP ENVY 5000 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1261,11 +1269,11 @@ Order5=6
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\IDHFPDLM\TPHUUFMH
+UniqueIDPath6=\IDHFPDLM\IEYTDHBC
 DocumentName6=LED.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=7
+Order6=16
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
