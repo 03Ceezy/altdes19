@@ -275,6 +275,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKKJTKSL
 
+[GeneratedDocument1]
+DocumentPath=DashboardBoard 11-16-2019 3-23-53 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=DashboardBoard 11-16-2019 12-54-22 PM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
