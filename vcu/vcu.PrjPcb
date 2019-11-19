@@ -279,7 +279,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -385,7 +385,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -457,7 +457,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -479,7 +479,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -551,7 +551,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -588,7 +588,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -768,7 +768,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -812,7 +812,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -844,36 +844,26 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\opsrv1.ee.calpoly.edu\RM130P1
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1269,11 +1259,11 @@ Order5=6
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\IDHFPDLM\TPHUUFMH
+UniqueIDPath6=\IDHFPDLM\IEYTDHBC
 DocumentName6=LED.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=7
+Order6=16
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
