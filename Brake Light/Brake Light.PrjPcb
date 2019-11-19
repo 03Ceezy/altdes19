@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\altlib19\footprints\LED Thru Hole.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EDRKVGVW
-
-[Document2]
 DocumentPath=Break Light Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXRHJXID
 
-[Document3]
+[Document2]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNDOXEGF
 
-[Document4]
+[Document3]
 DocumentPath=..\generic\Generic_555_Astable.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +101,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -224,7 +207,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -296,7 +279,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -318,7 +301,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -390,7 +373,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -427,7 +410,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -607,7 +590,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -651,7 +634,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -683,36 +666,26 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP OfficeJet 5200 series PCL-3
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1074,6 +1047,54 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Altium-Lib.DbLib/FETs
+ComponentDesignItemID0=13
+ComponentSymbolReference0=CMUDM8005 TR PFET
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Altium-Lib.DbLib/Resistor
+ComponentDesignItemID1=289
+ComponentSymbolReference1=Resistor
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=altlib.DbLib/capacitors
+ComponentDesignItemID2=1
+ComponentSymbolReference2=capacitor
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=altlib.DbLib/connectors
+ComponentDesignItemID3=32
+ComponentSymbolReference3=CONN 4POS
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=altlib.DbLib/diodes
+ComponentDesignItemID4=23
+ComponentSymbolReference4=LED
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=altlib.DbLib/icmisc
+ComponentDesignItemID5=17
+ComponentSymbolReference5=LM555 Timer
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=altlib.DbLib/resistors
+ComponentDesignItemID6=1
+ComponentSymbolReference6=resistor
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Miscellaneous Devices.IntLib
+ComponentDesignItemID7=Res1
+ComponentSymbolReference7=Res1
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1087,6 +1108,143 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=capacitance
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=ComponentLink1Description
+ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=Created_By
+ParameterUpdate5=1
+ParameterName6=Created_Date
+ParameterUpdate6=1
+ParameterName7=createdby
+ParameterUpdate7=1
+ParameterName8=createddate
+ParameterUpdate8=1
+ParameterName9=Description
+ParameterUpdate9=1
+ParameterName10=dielectric
+ParameterUpdate10=1
+ParameterName11=Drawer_id
+ParameterUpdate11=1
+ParameterName12=ESR
+ParameterUpdate12=1
+ParameterName13=id
+ParameterUpdate13=1
+ParameterName14=idFETs
+ParameterUpdate14=1
+ParameterName15=idResistor
+ParameterUpdate15=1
+ParameterName16=LatestRevisionDate
+ParameterUpdate16=1
+ParameterName17=LatestRevisionNote
+ParameterUpdate17=1
+ParameterName18=Library Reference
+ParameterUpdate18=1
+ParameterName19=Link
+ParameterUpdate19=1
+ParameterName20=Manufacturer_id
+ParameterUpdate20=1
+ParameterName21=MfrPartNo
+ParameterUpdate21=1
+ParameterName22=name
+ParameterUpdate22=1
+ParameterName23=Num_Circuits
+ParameterUpdate23=1
+ParameterName24=numcircuits
+ParameterUpdate24=1
+ParameterName25=numcontacts
+ParameterUpdate25=1
+ParameterName26=numrows
+ParameterUpdate26=1
+ParameterName27=Package
+ParameterUpdate27=1
+ParameterName28=PackageDescription
+ParameterUpdate28=1
+ParameterName29=PackageReference
+ParameterUpdate29=1
+ParameterName30=percent tolerance
+ParameterUpdate30=1
+ParameterName31=pitch
+ParameterUpdate31=1
+ParameterName32=Power
+ParameterUpdate32=1
+ParameterName33=Power(Max)
+ParameterUpdate33=1
+ParameterName34=Published
+ParameterUpdate34=1
+ParameterName35=Publisher
+ParameterUpdate35=1
+ParameterName36=quantity
+ParameterUpdate36=1
+ParameterName37=Rds_On
+ParameterUpdate37=1
+ParameterName38=resistance
+ParameterUpdate38=1
+ParameterName39=Supplier 1
+ParameterUpdate39=1
+ParameterName40=Supplier1
+ParameterUpdate40=1
+ParameterName41=Supplier1PartNo
+ParameterUpdate41=1
+ParameterName42=Tolerance
+ParameterUpdate42=1
+ParameterName43=Updated_By
+ParameterUpdate43=1
+ParameterName44=updatedby
+ParameterUpdate44=1
+ParameterName45=updateddate
+ParameterUpdate45=1
+ParameterName46=Value
+ParameterUpdate46=1
+ParameterName47=Vdss
+ParameterUpdate47=1
+ParameterName48=Vgs(Max)
+ParameterUpdate48=1
+ParameterName49=Vgs(typ)
+ParameterUpdate49=1
+ParameterName50=voltage
+ParameterUpdate50=1
+ParameterName51=vr
+ParameterUpdate51=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0603
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=AXIAL-0.3
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CMUDM8005 TR SOT523
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=DT15-4P
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=LED
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=RES 0603/1608
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=SOIC-8
+ModelUpdate6=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType7=SI
+ModelName7=Res
+ModelUpdate7=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType8=SIM
+ModelName8=RESISTOR
+ModelUpdate8=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
