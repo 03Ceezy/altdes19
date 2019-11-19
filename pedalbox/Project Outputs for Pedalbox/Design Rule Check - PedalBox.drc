@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBox.PcbDoc
 Date     : 11/19/2019
-Time     : 12:40:54 AM
+Time     : 11:58:20 AM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -44,11 +44,11 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Arc (73.799mm,0.203mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Area Fill (12mm,0mm) (24mm,12mm) on Top Layer And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Area Fill (12mm,32.45mm) (24mm,44.45mm) on Top Layer And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0.1mm < 0.254mm) Between Board Edge And Text "CTC 2 VRef" (28.638mm,36.4mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "Design and Layout by:
 Kevin Jung
 Marc Wong" (62.648mm,36.843mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "Pedalbox" (35.525mm,51.475mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "REV 0.5" (32.05mm,49.575mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "Timer" (13.55mm,29.675mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (101.561mm,2.475mm)(101.561mm,41.941mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,2.475mm)(101.5mm,2.475mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,41.975mm)(101.5mm,41.975mm) on Top Overlay 
