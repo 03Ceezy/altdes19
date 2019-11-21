@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBox.PcbDoc
 Date     : 11/19/2019
-Time     : 11:58:20 AM
+Time     : 7:14:18 PM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -20,6 +20,9 @@ Processing Rule : Width Constraint (Min=0.203mm) (Max=0.762mm) (Preferred=0.254m
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.152mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)

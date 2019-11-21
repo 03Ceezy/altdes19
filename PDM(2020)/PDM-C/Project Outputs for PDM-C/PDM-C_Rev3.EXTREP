@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PedalBox.GBR   11/19/2019  7:26:31 PM
+Gerber File Extension Report For: PDM-C_Rev3.GBR   11/19/2019  6:36:26 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,7 @@ Layer Extension     Layer Description
 .gbr                Top Overlay                             
 .gbr                Top Paste                               
 .gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
 .gbr                Profile                                 
 .gbr                Non-plated through-hole drill file      
 .gbr                Plated through-hole drill file          

@@ -1,12 +1,27 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [Pedalbox.PrjPcb]
-   Generated File[PedalBox.TXT]
-   Generated File[PedalBox.LDP]
-   Generated File[PedalBox.DRR]
+   Generated File[PedalBox_Copper_Signal_Top.gbr]
+   Generated File[PedalBox_Copper_Signal_Bot.gbr]
+   Generated File[PedalBox_Pads_Bot.gbr]
+   Generated File[PedalBox_Pads_Top.gbr]
+   Generated File[PedalBox_Legend_Bot.gbr]
+   Generated File[PedalBox_Soldermask_Bot.gbr]
+   Generated File[PedalBox_Paste_Bot.gbr]
+   Generated File[PedalBox_Legend_Top.gbr]
+   Generated File[PedalBox_Paste_Top.gbr]
+   Generated File[PedalBox_Soldermask_Top.gbr]
+   Generated File[PedalBox_Profile.gbr]
+   Generated File[PedalBox_NPTH_Drill.gbr]
+   Generated File[PedalBox_PTH_Drill.gbr]
+   Generated File[PedalBox_Drawing_1.gbr]
+   Generated File[PedalBox_Drillmap_1.gbr]
+   Generated File[PedalBox.RUL]
+   Generated File[PedalBox.EXTREP]
+   Generated File[PedalBox.REP]
 
 
-Files Generated   : 3
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 1:57:52 AM On 11/15/2019
+Finished Output Generation At 7:26:35 PM On 11/19/2019

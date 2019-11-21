@@ -1,9 +1,9 @@
 *************************************************************
-FileName = PedalBox.GBR
+FileName = PDM-C_Rev3.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : PedalBox_Copper_Signal_Top.gbr
+      File : PDM-C_Rev3_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -25,6 +25,29 @@ Used DCodes :
     D21
     D22
     D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PDM-C_Rev3_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D21
     D24
     D25
     D26
@@ -34,43 +57,11 @@ Used DCodes :
     D30
     D31
     D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PedalBox_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D16
-    D17
-    D19
-    D21
-    D22
-    D25
-    D26
-    D30
-    D31
-    D34
-    D35
-    D36
-    D37
 *************************************************************
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : PedalBox_Pads_Bot.gbr
+      File : PDM-C_Rev3_Pads_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -78,24 +69,20 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D10
-    D11
-    D15
-    D16
     D17
     D19
-    D21
-    D22
+    D24
     D25
     D26
-    D34
-    D35
-    D37
+    D27
+    D28
+    D29
+    D32
 *************************************************************
 
 *************************************************************
 Generating : Top Pad Master
-      File : PedalBox_Pads_Top.gbr
+      File : PDM-C_Rev3_Pads_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -113,39 +100,32 @@ Used DCodes :
     D17
     D18
     D19
-    D20
-    D21
-    D22
-    D23
     D24
     D25
     D26
     D27
     D28
     D29
-    D34
-    D35
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : PedalBox_Legend_Bot.gbr
+      File : PDM-C_Rev3_Legend_Bot.gbr
 
     Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
+    D33
+    D34
+    D35
+    D36
+    D37
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : PedalBox_Soldermask_Bot.gbr
+      File : PDM-C_Rev3_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -155,25 +135,22 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D36
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
     D44
     D45
     D46
     D47
     D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : PedalBox_Paste_Bot.gbr
+      File : PDM-C_Rev3_Paste_Bot.gbr
 
     Adding Layer      : Bottom Paste
 
@@ -183,38 +160,30 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D10
-    D11
-    D15
-    D16
     D17
     D19
-    D21
-    D22
-    D25
-    D26
-    D37
+    D32
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : PedalBox_Legend_Top.gbr
+      File : PDM-C_Rev3_Legend_Top.gbr
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
-    D57
+    D33
+    D34
+    D35
+    D36
+    D37
+    D49
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : PedalBox_Paste_Top.gbr
+      File : PDM-C_Rev3_Paste_Top.gbr
 
     Adding Layer      : Top Paste
 
@@ -234,21 +203,11 @@ Used DCodes :
     D17
     D18
     D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : PedalBox_Soldermask_Top.gbr
+      File : PDM-C_Rev3_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -258,12 +217,16 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D36
+    D38
+    D39
+    D41
+    D42
+    D43
     D44
     D45
+    D46
     D47
     D48
-    D49
     D50
     D51
     D52
@@ -271,8 +234,44 @@ Used DCodes :
     D54
     D55
     D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PDM-C_Rev3_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PDM-C_Rev3_Profile.gbr
+
+
+Used DCodes :
     D58
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : PDM-C_Rev3_NPTH_Drill.gbr
+
+
+Used DCodes :
     D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : PDM-C_Rev3_PTH_Drill.gbr
+
+
+Used DCodes :
     D60
     D61
     D62
@@ -281,40 +280,14 @@ Used DCodes :
     D65
     D66
     D67
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : PedalBox_Profile.gbr
-
-
-Used DCodes :
     D68
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : PedalBox_NPTH_Drill.gbr
-
-
-Used DCodes :
     D69
     D70
 *************************************************************
 
 *************************************************************
-Generating : Plated through-hole drill file
-      File : PedalBox_PTH_Drill.gbr
-
-
-Used DCodes :
-    D71
-    D72
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
-      File : PedalBox_Drawing_1.gbr
+      File : PDM-C_Rev3_Drawing_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -322,13 +295,13 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D74
-    D75
+    D72
+    D73
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
-      File : PedalBox_Drillmap_1.gbr
+      File : PDM-C_Rev3_Drillmap_1.gbr
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -336,6 +309,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D74
+    D72
 *************************************************************
 
