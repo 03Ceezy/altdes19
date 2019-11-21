@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Dashboard Board.PrjPCB]
+   Generated File[DashboardBoard_Copper_Signal_Top.gbr]
+   Generated File[DashboardBoard_Copper_Signal_Bot.gbr]
+   Generated File[DashboardBoard_Pads_Bot.gbr]
+   Generated File[DashboardBoard_Pads_Top.gbr]
+   Generated File[DashboardBoard_Legend_Bot.gbr]
+   Generated File[DashboardBoard_Soldermask_Bot.gbr]
+   Generated File[DashboardBoard_Paste_Bot.gbr]
+   Generated File[DashboardBoard_Legend_Top.gbr]
+   Generated File[DashboardBoard_Paste_Top.gbr]
+   Generated File[DashboardBoard_Soldermask_Top.gbr]
+   Generated File[DashboardBoard_Profile.gbr]
+   Generated File[DashboardBoard_NPTH_Drill.gbr]
+   Generated File[DashboardBoard_PTH_Drill.gbr]
+   Generated File[DashboardBoard_Drawing_1.gbr]
+   Generated File[DashboardBoard_Drillmap_1.gbr]
+   Generated File[DashboardBoard.RUL]
+   Generated File[DashboardBoard.EXTREP]
+   Generated File[DashboardBoard.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 8:37:32 PM On 11/19/2019

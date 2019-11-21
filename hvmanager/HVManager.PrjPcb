@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=HVBlocks.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YMIGFTWK
+
+[Document2]
 DocumentPath=..\generic\12V_to_5V_LDO_1A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,8 +71,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJGSFMRW
 
-[Document2]
-DocumentPath=Precharge.SchDoc
+[Document3]
+DocumentPath=Precharge_Discharge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXUDHQXR
 
-[Document3]
+[Document4]
 DocumentPath=MKE1xFxxxVLH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXPMNTBQ
 
-[Document4]
+[Document5]
 DocumentPath=..\generic\CAN_5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNBOPRBF
 
-[Document5]
+[Document6]
 DocumentPath=ISO_Transformer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJNEMVUZ
 
-[Document6]
+[Document7]
 DocumentPath=DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSKPRTUK
 
-[Document7]
+[Document8]
 DocumentPath=BMS Communications.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIESQMTO
 
-[Document8]
+[Document9]
 DocumentPath=Air Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,23 +189,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNORDFCH
-
-[Document9]
-DocumentPath=HVManager\HVManagerLevel.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TDQSIVMO
 
 [Document10]
 DocumentPath=MKE1xFxxxVLH.Harness
@@ -223,6 +223,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document12]
+DocumentPath=HV_Detect.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AUUOETDG
 
 [Configuration1]
 Name=Sources
@@ -343,7 +360,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung C410 Series
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -728,41 +745,41 @@ Name=Validation Outputs
 Description=
 TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_Violations
-OutputName1=BOM Checks Report
+OutputType1=Component states check
+OutputName1=Server's components states check
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=Component states check
-OutputName2=Server's components states check
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Configuration compliance
-OutputName3=Environment configuration compliance check
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Design Rules Check
-OutputName4=Design Rules Check
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Differences Report
+OutputName4=Differences Report
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Differences Report
-OutputName5=Differences Report
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType6=Electrical Rules Check
-OutputName6=Electrical Rules Check
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=Footprint Comparison Report
-OutputName7=Footprint Comparison Report
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
@@ -802,28 +819,28 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0

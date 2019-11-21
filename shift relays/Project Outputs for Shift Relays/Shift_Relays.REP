@@ -1,0 +1,239 @@
+*************************************************************
+FileName = Shift_Relays.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Shift_Relays_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Shift_Relays_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Shift_Relays_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Shift_Relays_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Shift_Relays_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Shift_Relays_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Shift_Relays_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Shift_Relays_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D19
+    D20
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Shift_Relays_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Shift_Relays_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Shift_Relays_Profile.gbr
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Shift_Relays_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Shift_Relays_PTH_Drill.gbr
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Shift_Relays_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Shift_Relays_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D39
+*************************************************************
+

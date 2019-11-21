@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,19.1.7 (138)*%
+G04 Layer_Color=128*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,Paste,Bot*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD18R,0.053150X0.057087*%
+D18*
+X1605315Y2714567D02*
+D03*
+X1721457D02*
+D03*
+X1603347Y2098425D02*
+D03*
+X1719488D02*
+D03*
+%TF.MD5,bc8e812f253399656eaacd8e213a93e5*%
+M02*

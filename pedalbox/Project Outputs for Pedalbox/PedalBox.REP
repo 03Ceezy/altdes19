@@ -2,20 +2,8 @@
 FileName = PedalBox.GBR
 AutoAperture = True
 *************************************************************
-Generating : Courtyard Top
-      File : PedalBox.GM5
-
-    Adding Layer      : Courtyard Top
-
-
-Used DCodes :
-    D66
-    D67
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
-      File : PedalBox.GTL
+      File : PedalBox_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -23,6 +11,11 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
     D15
     D16
     D17
@@ -43,20 +36,13 @@ Used DCodes :
     D32
     D33
     D34
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
+    D35
+    D36
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PedalBox.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : PedalBox_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -64,21 +50,52 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D18
-    D20
+    D10
+    D11
+    D15
+    D16
+    D17
+    D19
     D21
     D22
-    D24
+    D25
     D26
-    D27
     D30
     D31
-    D63
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PedalBox_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+    D17
+    D19
+    D21
+    D22
+    D25
+    D26
+    D34
+    D35
+    D37
 *************************************************************
 
 *************************************************************
 Generating : Top Pad Master
-      File : PedalBox.GPT
+      File : PedalBox_Pads_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -86,6 +103,12 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
     D16
     D17
     D18
@@ -100,31 +123,29 @@ Used DCodes :
     D27
     D28
     D29
-    D30
-    D31
-    D32
-    D33
     D34
-    D61
-    D62
+    D35
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : PedalBox.GM15
+Generating : Bottom Overlay
+      File : PedalBox_Legend_Bot.gbr
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D15
-    D66
-    D67
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : PedalBox.GBS
+      File : PedalBox_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -134,55 +155,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D37
-    D39
-    D40
-    D41
-    D43
-    D45
-    D46
-    D49
-    D50
-    D54
-    D55
-    D56
-    D57
-    D58
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Assembly Top
-      File : PedalBox.GM2
-
-    Adding Layer      : Assembly Top
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PedalBox.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
     D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
     D44
     D45
     D46
@@ -196,35 +169,13 @@ Used DCodes :
     D54
     D55
     D56
-    D57
-    D58
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : PedalBox.GM1
+Generating : Bottom Paste
+      File : PedalBox_Paste_Bot.gbr
 
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PedalBox.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PedalBox.GBL
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -232,93 +183,38 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D10
+    D11
     D15
-    D18
-    D20
+    D16
+    D17
+    D19
     D21
     D22
-    D24
+    D25
     D26
-    D27
-    D30
-    D31
-    D56
-    D57
-    D58
-    D61
-    D62
-    D63
-    D64
+    D37
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : PedalBox.GTO
+      File : PedalBox_Legend_Top.gbr
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PedalBox.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PedalBox.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D20
-    D21
-    D22
-    D24
-    D26
-    D27
-    D30
-    D31
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : 3D Body Top
-      File : PedalBox.GM7
-
-    Adding Layer      : 3D Body Top
-
-
-Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D57
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : PedalBox.GTP
+      File : PedalBox_Paste_Top.gbr
 
     Adding Layer      : Top Paste
 
@@ -328,6 +224,12 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
     D16
     D17
     D18
@@ -342,10 +244,98 @@ Used DCodes :
     D27
     D28
     D29
-    D30
-    D31
-    D32
-    D33
-    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PedalBox_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D44
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PedalBox_Profile.gbr
+
+
+Used DCodes :
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : PedalBox_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : PedalBox_PTH_Drill.gbr
+
+
+Used DCodes :
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PedalBox_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PedalBox_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D74
 *************************************************************
 

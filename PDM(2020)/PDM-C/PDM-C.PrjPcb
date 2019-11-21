@@ -212,102 +212,182 @@ DocumentPath=Project Outputs for PDM-C\Design Rule Check - PDM-C_Rev2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PDM-C_5vRelay_Board 2-21-2019 9-57-35 PM.WAS
+DocumentPath=Project Outputs for PDM-C\Design Rule Check - PDM-C_Rev3.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=PDM-C_Board 2-2-2019 2-29-14 PM.WAS
+DocumentPath=PDM-C_5vRelay_Board 2-21-2019 9-57-35 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=PDM-C_Board 2-2-2019 3-08-10 PM.WAS
+DocumentPath=PDM-C_Board 2-2-2019 2-29-14 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=PDM-C_Board 2-11-2019 8-36-03 PM.WAS
+DocumentPath=PDM-C_Board 2-2-2019 3-08-10 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.EXTREP
+DocumentPath=PDM-C_Board 2-11-2019 8-36-03 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.REP
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.RUL
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Drawing_1.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Drillmap_1.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Legend_Bot.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Legend_Top.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_NPTH_Drill.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Pads_Bot.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Pads_Top.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Paste_Bot.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Paste_Top.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Profile.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_PTH_Drill.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Soldermask_Top.gbr
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=PDM-C_Rev2 2-28-2019 10-10-27 PM.WAS
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=PDM-C_Rev2 3-2-2019 7-26-21 PM.WAS
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for PDM-C\PDM-C_Rev3_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=PDM-C_Rev2 2-28-2019 10-10-27 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=PDM-C_Rev2 3-2-2019 7-26-21 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
 DocumentPath=PDM-C_Rev3 11-8-2019 12-45-39 AM.WAS
 DItemRevisionGUID=
 
@@ -524,7 +604,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing

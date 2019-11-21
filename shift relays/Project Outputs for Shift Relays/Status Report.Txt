@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Shift Relays.PrjPcb]
+   Generated File[Shift_Relays_Copper_Signal_Top.gbr]
+   Generated File[Shift_Relays_Copper_Signal_Bot.gbr]
+   Generated File[Shift_Relays_Pads_Bot.gbr]
+   Generated File[Shift_Relays_Pads_Top.gbr]
+   Generated File[Shift_Relays_Legend_Bot.gbr]
+   Generated File[Shift_Relays_Soldermask_Bot.gbr]
+   Generated File[Shift_Relays_Paste_Bot.gbr]
+   Generated File[Shift_Relays_Legend_Top.gbr]
+   Generated File[Shift_Relays_Paste_Top.gbr]
+   Generated File[Shift_Relays_Soldermask_Top.gbr]
+   Generated File[Shift_Relays_Profile.gbr]
+   Generated File[Shift_Relays_NPTH_Drill.gbr]
+   Generated File[Shift_Relays_PTH_Drill.gbr]
+   Generated File[Shift_Relays_Drawing_1.gbr]
+   Generated File[Shift_Relays_Drillmap_1.gbr]
+   Generated File[Shift_Relays.RUL]
+   Generated File[Shift_Relays.EXTREP]
+   Generated File[Shift_Relays.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 8:50:44 PM On 11/20/2019

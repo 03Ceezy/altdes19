@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,19.0.10 (269)*%
+G04 Layer_Color=0*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ComponentDrill*%
+%ADD69C,0.039370*%
+%ADD70C,0.129921*%
+D69*
+X1318898Y78543D02*
+D03*
+Y228543D02*
+D03*
+D70*
+X3858268Y235236D02*
+D03*
+Y1514764D02*
+D03*
+%TF.MD5,f120b14bbd426512408ffd75fd615083*%
+M02*
