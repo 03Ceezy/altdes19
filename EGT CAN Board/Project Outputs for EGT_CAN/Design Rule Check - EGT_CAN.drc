@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\EGT CAN Board\EGT_CAN.PcbDoc
+Date     : 11/22/2019
+Time     : 2:36:34 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-1(41.565mm,8.425mm) on Bottom Layer And Pad U1-2(41.565mm,7.775mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-3(41.565mm,7.125mm) on Bottom Layer And Pad U1-4(41.565mm,6.475mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-6(37.354mm,7.125mm) on Bottom Layer And Pad U1-7(37.354mm,7.775mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-7(37.354mm,7.775mm) on Bottom Layer And Pad U1-8(37.354mm,8.425mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-1(16.139mm,8.45mm) on Bottom Layer And Pad U2-2(16.139mm,7.8mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-3(16.139mm,7.15mm) on Bottom Layer And Pad U2-4(16.139mm,6.5mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-6(11.928mm,7.15mm) on Bottom Layer And Pad U2-7(11.928mm,7.8mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-7(11.928mm,7.8mm) on Bottom Layer And Pad U2-8(11.928mm,8.45mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (0.168mm < 0.254mm) Between Pad X1-TC+(14.034mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC+(14.034mm,13.741mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (0.12mm < 0.254mm) Between Pad X3-TC-(39.46mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC-(39.46mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
+Rule Violations :16
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.152mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (10.033mm,-0.051mm)(10.033mm,25.349mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (10.033mm,-0.051mm)(18.034mm,-0.051mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.081mm,28.202mm)(13.081mm,61.662mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.081mm,61.662mm)(40.261mm,61.662mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (18.034mm,-0.051mm)(18.034mm,25.349mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (35.459mm,-0.051mm)(35.459mm,25.349mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (35.459mm,-0.051mm)(43.46mm,-0.051mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (40.261mm,28.202mm)(40.261mm,61.662mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (43.46mm,-0.051mm)(43.46mm,25.349mm) on Top Overlay 
+Rule Violations :9
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 28
+Waived Violations : 0
+Time Elapsed        : 00:00:00

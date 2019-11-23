@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top Level.SchDoc
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=TC1|SchDesignator=TC1|FileName=ThermocoupleAmplifiersAD8497.SchDoc|SymbolType=Normal|RawFileName=ThermocoupleAmplifiersAD8497.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=TC2|SchDesignator=TC2|FileName=ThermocoupleAmplifiersAD8497.SchDoc|SymbolType=Normal|RawFileName=ThermocoupleAmplifiersAD8497.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
