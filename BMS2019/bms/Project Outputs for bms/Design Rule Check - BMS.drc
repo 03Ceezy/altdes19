@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\BMS2019\bms\BMS.PcbDoc
 Date     : 11/24/2019
-Time     : 11:23:57 AM
+Time     : 12:37:33 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.254mm) Between Arc (5mm,15mm) on Keep-Out Layer And Pad Free-4(5mm,15mm) on Multi-Layer 
@@ -19,27 +19,13 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.203mm) (Max=0.508mm) (Preferred=0.254mm) (All)
-   Violation between Width Constraint: Track (53.153mm,16.976mm)(53.25mm,17.073mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (53.25mm,17.073mm)(53.715mm,17.073mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (53.715mm,17.073mm)(53.905mm,17.263mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (53.905mm,17.263mm)(55.52mm,18.878mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (54.594mm,23.631mm)(54.594mm,26.097mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (54.594mm,23.631mm)(55.52mm,22.705mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (54.594mm,26.097mm)(54.849mm,26.352mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (54.849mm,26.352mm)(55.352mm,26.352mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (55.352mm,26.352mm)(55.5mm,26.5mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-   Violation between Width Constraint: Track (55.52mm,18.878mm)(55.52mm,22.705mm) on Bottom Layer Actual Width = 0.203mm, Target Width = 0.203mm
-Rule Violations :10
+Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-3(5mm,51mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-4(5mm,15mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-5(60mm,15mm) on Multi-Layer Actual Hole Size = 3mm
-   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-6(60mm,51mm) on Multi-Layer Actual Hole Size = 3mm
-Rule Violations :4
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3mm) (All)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -96,6 +82,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 17
+Violations Detected : 3
 Waived Violations : 0
 Time Elapsed        : 00:00:00
