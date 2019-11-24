@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DHWPGSWT
 
 [Document4]
+DocumentPath=BMS.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GHHSEDKI
+
+[Document5]
 DocumentPath=tempmux.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,8 +122,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGMOTBIQ
 
-[Document5]
-DocumentPath=BMS.PcbDoc
+[Document6]
+DocumentPath=bms.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +137,99 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GHHSEDKI
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=BMS 11-23-2019 3-44-17 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=BMS 11-23-2019 4-22-50 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=BMS 11-23-2019 4-25-29 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=BMS 11-24-2019 1-17-48 AM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for bms\BMS.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for bms\BMS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for bms\BMS.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for bms\BMS_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for bms\BMS_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for bms\BMS_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for bms\BMS_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for bms\BMS_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for bms\BMS_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for bms\BMS_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for bms\BMS_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for bms\BMS_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for bms\BMS_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for bms\BMS_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for bms\BMS_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for bms\BMS_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for bms\BMS_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for bms\BMS_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for bms\Design Rule Check - BMS.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -337,20 +446,20 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -361,47 +470,51 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16973848~1,16973831~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16973834~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
@@ -1064,9 +1177,129 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component_$RoomName
+PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=
+DocumentName0=BMS_Slave_Top.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=\KHBGSBPA
+DocumentName1=discharge.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=2
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=\RMNUCCHH
+DocumentName2=discharge.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=3
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=\FSZJOBTP
+DocumentName3=discharge.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=4
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=\VDXXFXBP
+DocumentName4=discharge.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=5
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=\TZGLHAXB
+DocumentName5=discharge.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=6
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=\RVGZHHHU
+DocumentName6=discharge.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=7
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=\HCBRLSZE
+DocumentName7=discharge.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=8
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=\OAXOCGEI
+DocumentName8=discharge.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=9
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=\RLTWTHJZ
+DocumentName9=discharge.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=10
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=\ENUAIKFB
+DocumentName10=discharge.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=11
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=\RSJEWRMW
+DocumentName11=discharge.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=12
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=\ICZSDXBS
+DocumentName12=discharge.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=13
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\ODMPXNCT
+DocumentName13=ISO_Transformer.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=14
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=\DTNCOQJU
+DocumentName14=tempmux.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=15
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
 
 [PrjClassGen]
 CompClassManualEnabled=0
