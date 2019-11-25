@@ -1,38 +1,48 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\EGT CAN Board\EGT_CAN.PcbDoc
-Date     : 11/22/2019
-Time     : 2:36:34 PM
+PCB File : C:\Users\Daniel Gutmann\Documents\CPRACING\GitHub\altdes19\EGT CAN Board\EGT_CAN.PcbDoc
+Date     : 11/24/2019
+Time     : 16:49:35
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: Bottom Layer-AGND In net AGND
+   Polygon named: Bottom Layer-No Net In net AGND
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-1(41.565mm,8.425mm) on Bottom Layer And Pad U1-2(41.565mm,7.775mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-3(41.565mm,7.125mm) on Bottom Layer And Pad U1-4(41.565mm,6.475mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-6(37.354mm,7.125mm) on Bottom Layer And Pad U1-7(37.354mm,7.775mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1-7(37.354mm,7.775mm) on Bottom Layer And Pad U1-8(37.354mm,8.425mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-1(16.139mm,8.45mm) on Bottom Layer And Pad U2-2(16.139mm,7.8mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-3(16.139mm,7.15mm) on Bottom Layer And Pad U2-4(16.139mm,6.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-6(11.928mm,7.15mm) on Bottom Layer And Pad U2-7(11.928mm,7.8mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U2-7(11.928mm,7.8mm) on Bottom Layer And Pad U2-8(11.928mm,8.45mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (0.168mm < 0.254mm) Between Pad X1-TC+(14.034mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X1-TC+(14.034mm,13.741mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (0.12mm < 0.254mm) Between Pad X3-TC-(39.46mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC-(39.46mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer 
-Rule Violations :16
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC1-1(14.412mm,8.989mm) on Top Layer And Pad U1_TC1-2(13.762mm,8.989mm) on Top Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC1-3(13.112mm,8.989mm) on Top Layer And Pad U1_TC1-4(12.462mm,8.989mm) on Top Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC1-6(13.112mm,4.778mm) on Top Layer And Pad U1_TC1-7(13.762mm,4.778mm) on Top Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC1-7(13.762mm,4.778mm) on Top Layer And Pad U1_TC1-8(14.412mm,4.778mm) on Top Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC2-1(38.954mm,9.344mm) on Bottom Layer And Pad U1_TC2-2(39.604mm,9.344mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC2-3(40.254mm,9.344mm) on Bottom Layer And Pad U1_TC2-4(40.904mm,9.344mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC2-6(40.254mm,5.134mm) on Bottom Layer And Pad U1_TC2-7(39.604mm,5.134mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.23mm < 0.254mm) Between Pad U1_TC2-7(39.604mm,5.134mm) on Bottom Layer And Pad U1_TC2-8(38.954mm,5.134mm) on Bottom Layer 
+Rule Violations :8
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
-   Violation between Short-Circuit Constraint: Between Pad X1-TC-(14.034mm,17.932mm) on Multi-Layer And Polygon Region (85 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
-   Violation between Short-Circuit Constraint: Between Pad X3-TC+(39.46mm,13.741mm) on Multi-Layer And Polygon Region (73 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C2_TC1-1(17.577mm,12.308mm) on Bottom Layer And Pad R3_TC1-1(23.012mm,13.629mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad U1_TC1-2(13.762mm,8.989mm) on Top Layer And Pad C2_TC1-1(17.577mm,12.308mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad R3_TC2-1(31.14mm,13.553mm) on Bottom Layer And Pad C2_TC2-1(36.754mm,11.902mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C2_TC2-1(36.754mm,11.902mm) on Bottom Layer And Pad U1_TC2-2(39.604mm,9.344mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C4_TC1-1(11.749mm,1.981mm) on Top Layer And Pad C3_TC1-2(17.729mm,2.134mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C3_TC2-2(36.779mm,2.856mm) on Bottom Layer And Pad C4_TC2-1(41.554mm,1.738mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C4_TC1-1(11.749mm,1.981mm) on Top Layer And Pad U1_TC1-3(13.112mm,8.989mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad U1_TC2-3(40.254mm,9.344mm) on Bottom Layer And Pad C4_TC2-1(41.554mm,1.738mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad R3_TC1-1(23.012mm,13.629mm) on Bottom Layer And Pad R3_TC2-1(31.14mm,13.553mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad R3_TC2-1(31.14mm,13.553mm) on Bottom Layer And Pad X3-4(31.191mm,21.864mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad U1_TC1-3(13.112mm,8.989mm) on Top Layer And Pad U1_TC1-2(13.762mm,8.989mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TCO2 Between Pad U1_TC2-6(40.254mm,5.134mm) on Bottom Layer And Pad U1_TC2-5(40.904mm,5.134mm) on Bottom Layer 
+Rule Violations :12
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Bottom Layer-AGND) on Bottom Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (Bottom Layer-No Net) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
 Rule Violations :0
@@ -59,21 +69,67 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (10.033mm,-0.051mm)(10.033mm,25.349mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (10.033mm,-0.051mm)(18.034mm,-0.051mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.081mm,28.202mm)(13.081mm,61.662mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.081mm,61.662mm)(40.261mm,61.662mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (18.034mm,-0.051mm)(18.034mm,25.349mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (35.459mm,-0.051mm)(35.459mm,25.349mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (35.459mm,-0.051mm)(43.46mm,-0.051mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (40.261mm,28.202mm)(40.261mm,61.662mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (43.46mm,-0.051mm)(43.46mm,25.349mm) on Top Overlay 
-Rule Violations :9
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "a" (-21.311mm,37.084mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "C4_TC1" (12.751mm,2.75mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "C4_TC2" (40.716mm,0.827mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "Design and layout by:
+Dan Gutmann
+Kyle Chang" (42.977mm,-22.936mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "EGT Board" (8.814mm,-25.4mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "REV 1.0 (11/2019)" (30.734mm,-25.4mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "TP2_TC2" (106.966mm,-25.4mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.262mm < 0.381mm) Between Board Edge And Text "TP5_TC1" (10.795mm,5.334mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Text "U1_TC2" (59.799mm,60.337mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.042mm,18.507mm)(13.042mm,51.967mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (13.042mm,51.967mm)(40.222mm,51.967mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (18.986mm,-8.89mm)(18.986mm,16.51mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (18.986mm,-8.89mm)(26.988mm,-8.89mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (26.988mm,-8.89mm)(26.988mm,16.51mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (27.241mm,-8.89mm)(27.241mm,16.51mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (27.241mm,-8.89mm)(35.242mm,-8.89mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (35.242mm,-8.89mm)(35.242mm,16.51mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.381mm) Between Board Edge And Track (40.222mm,18.507mm)(40.222mm,51.967mm) on Top Overlay 
+Rule Violations :18
+
+Processing Rule : Room Connectors (Bounding Region = (1.626mm, 0mm, 52.426mm, 25.4mm) (InComponentClass('Connectors'))
+   Violation between Room Definition: Between Room Connectors (Bounding Region = (1.626mm, 0mm, 52.426mm, 25.4mm) (InComponentClass('Connectors')) And Small Component X1-KTYPE TC CONN (18.986mm,-8.89mm) on Top Layer 
+   Violation between Room Definition: Between Room Connectors (Bounding Region = (1.626mm, 0mm, 52.426mm, 25.4mm) (InComponentClass('Connectors')) And Small Component X2-KTYPE TC CONN (27.241mm,-8.89mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1'))
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component C1_TC1-capacitor (20.244mm,7.188mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component C2_TC1-capacitor (17.577mm,11.633mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component C3_TC1-capacitor (17.729mm,2.809mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component C4_TC1-capacitor (11.074mm,1.981mm) on Top Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component R1_TC1-10k (20.295mm,10.998mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component R2_TC1-10k (20.269mm,3.683mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component R3_TC1-1M (23.012mm,12.979mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component TP1_TC1-RCU-0C (23.52mm,1.6mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component TP3_TC1-RCU-0C (14.318mm,11.717mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component TP4_TC1-RCU-0C (15.088mm,1.956mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SMT Small Component TP5_TC1-RCU-0C (9.627mm,4.724mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC1 (Bounding Region = (1.092mm, 0mm, 51.892mm, 25.4mm) (InComponentClass('TC1')) And SOIC Component U1_TC1-AD8497 (13.437mm,6.883mm) on Top Layer 
+Rule Violations :12
+
+Processing Rule : Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2'))
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component C1_TC2-capacitor (34.138mm,7.239mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component C2_TC2-capacitor (36.754mm,11.227mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component C3_TC2-capacitor (36.779mm,3.531mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component C4_TC2-capacitor (41.554mm,2.413mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component R1_TC2-10k (34.138mm,11.201mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component R2_TC2-10k (34.138mm,3.632mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component R3_TC2-1M (31.14mm,12.903mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component TP1_TC2-RCU-0C (31.217mm,1.905mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component TP3_TC2-RCU-0C (39.167mm,11.582mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component TP4_TC2-RCU-0C (38.887mm,2.083mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SMT Small Component TP5_TC2-RCU-0C (44.577mm,4.775mm) on Bottom Layer 
+   Violation between Room Definition: Between Room TC2 (Bounding Region = (0mm, 25.425mm, 50.8mm, 50.825mm) (InComponentClass('TC2')) And SOIC Component U1_TC2-AD8497 (39.929mm,7.239mm) on Bottom Layer 
+Rule Violations :12
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 28
+Violations Detected : 66
 Waived Violations : 0
 Time Elapsed        : 00:00:00
