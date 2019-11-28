@@ -1,27 +1,12 @@
-Output: Gerber X2 Files
-Type  : GerberX2
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [EGT_CAN.PrjPcb]
-   Generated File[EGT_CAN_Copper_Signal_Top.gbr]
-   Generated File[EGT_CAN_Copper_Signal_Bot.gbr]
-   Generated File[EGT_CAN_Pads_Bot.gbr]
-   Generated File[EGT_CAN_Pads_Top.gbr]
-   Generated File[EGT_CAN_Legend_Bot.gbr]
-   Generated File[EGT_CAN_Soldermask_Bot.gbr]
-   Generated File[EGT_CAN_Paste_Bot.gbr]
-   Generated File[EGT_CAN_Legend_Top.gbr]
-   Generated File[EGT_CAN_Paste_Top.gbr]
-   Generated File[EGT_CAN_Soldermask_Top.gbr]
-   Generated File[EGT_CAN_Profile.gbr]
-   Generated File[EGT_CAN_NPTH_Drill.gbr]
-   Generated File[EGT_CAN_PTH_Drill.gbr]
-   Generated File[EGT_CAN_Drawing_1.gbr]
-   Generated File[EGT_CAN_Drillmap_1.gbr]
-   Generated File[EGT_CAN.RUL]
-   Generated File[EGT_CAN.EXTREP]
-   Generated File[EGT_CAN.REP]
+   Generated File[EGT_CAN.TXT]
+   Generated File[EGT_CAN.LDP]
+   Generated File[EGT_CAN.DRR]
 
 
-Files Generated   : 18
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:49:07 PM On 11/25/2019
+Finished Output Generation At 10:11:09 On 11/28/2019
