@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\par3r\OneDrive\Documents\GitHub\altdes19\shift relays\Shift_Relays.PcbDoc
+DRC Rules Export File for PCB: C:\Users\grayd\home\git\altdes19\Shift Relays\Shift_Relays.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
