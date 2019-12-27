@@ -273,9 +273,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TITFQFHV
+DocumentUniqueId=UPXOTUDG
 
 [Document15]
+DocumentPath=PedalBoxREV2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TITFQFHV
+
+[Document16]
 DocumentPath=Pedalbox.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,23 +308,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document16]
-DocumentPath=DivergentSignalOffset.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NGBWUQWD
 
 [Document17]
 DocumentPath=LowLatch.SchDoc
@@ -327,13 +327,13 @@ GenerateClassCluster=0
 DocumentUniqueId=MNHDTSTX
 
 [Document18]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=AnalogBuffer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -341,253 +341,278 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=Project Outputs for Pedalbox\gerbers-2019-11-27\gerbers.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=Project Outputs for Pedalbox\gerbers-2019-11-27\drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NGNWHHQY
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Pedalbox\Design Rule Check - PedalBox.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PedalBox 10-18-2019 11-50-46 PM.WAS
+DocumentPath=Project Outputs for Pedalbox\Design Rule Check - PedalBoxREV2.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=PedalBox 10-18-2019 11-51-05 PM.WAS
+DocumentPath=PedalBox 10-18-2019 11-50-46 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=PedalBox 10-19-2019 1-01-48 PM.WAS
+DocumentPath=PedalBox 10-18-2019 11-51-05 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=PedalBox 10-19-2019 1-38-54 PM.WAS
+DocumentPath=PedalBox 10-19-2019 1-01-48 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=PedalBox 10-19-2019 1-54-07 PM.WAS
+DocumentPath=PedalBox 10-19-2019 1-38-54 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=PedalBox 10-20-2019 1-12-49 AM.WAS
+DocumentPath=PedalBox 10-19-2019 1-54-07 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=PedalBox 10-20-2019 1-53-20 AM.WAS
+DocumentPath=PedalBox 10-20-2019 1-12-49 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=PedalBox 11-1-2019 5-25-57 PM.WAS
+DocumentPath=PedalBox 10-20-2019 1-53-20 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=PedalBox 11-1-2019 5-26-05 PM.WAS
+DocumentPath=PedalBox 11-1-2019 5-25-57 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=PedalBox 11-1-2019 5-26-27 PM.WAS
+DocumentPath=PedalBox 11-1-2019 5-26-05 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=PedalBox 11-19-2019 11-16-16 AM.WAS
+DocumentPath=PedalBox 11-1-2019 5-26-27 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.DRR
+DocumentPath=PedalBox 11-19-2019 11-16-16 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.EXTREP
+DocumentPath=Project Outputs for Pedalbox\PedalBox.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GBL
+DocumentPath=Project Outputs for Pedalbox\PedalBox.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GBO
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GBP
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GBS
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM1
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM2
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM5
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM7
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM13
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GM15
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GPB
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GPT
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GTL
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GTO
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GTP
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.GTS
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.LDP
+DocumentPath=Project Outputs for Pedalbox\PedalBox.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.REP
+DocumentPath=Project Outputs for Pedalbox\PedalBox.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.RUL
+DocumentPath=Project Outputs for Pedalbox\PedalBox.REP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Pedalbox\PedalBox.TXT
+DocumentPath=Project Outputs for Pedalbox\PedalBox.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Drawing_1.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Drillmap_1.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Legend_Bot.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Legend_Top.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Pads_Bot.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Pads_Top.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Paste_Bot.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Paste_Top.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Profile.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_PTH_Drill.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Pedalbox\PedalBox_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Pedalbox\PedalBox_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
+DocumentPath=Project Outputs for Pedalbox\PedalBox_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Pedalbox\PedalBox_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
@@ -709,7 +734,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -803,7 +828,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=NPIEEF092 (HP LaserJet M402n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -1483,16 +1508,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1875,174 +1890,166 @@ Order3=4
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\FWMUGKBY
-DocumentName4=BSPD.SchDoc
+UniqueIDPath4=\JKJTCEXR
+DocumentName4=AnalogBuffer.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=5
+Order4=28
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\VECZTYEM
-DocumentName5=CAN_5V.SchDoc
+UniqueIDPath5=\FWMUGKBY
+DocumentName5=BSPD.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=6
+Order5=5
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\FRZMCAGR
-DocumentName6=DivergentSignalOffset.SchDoc
+UniqueIDPath6=\VECZTYEM
+DocumentName6=CAN_5V.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=23
+Order6=6
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\GCDKZQNB
-DocumentName7=DivergentSignalOffset.SchDoc
+UniqueIDPath7=\FWMUGKBY\SNEWNWNB
+DocumentName7=LowLatch.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=24
+Order7=27
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\FWMUGKBY\SNEWNWNB
-DocumentName8=LowLatch.SchDoc
+UniqueIDPath8=\QLBDGDZQ
+DocumentName8=MCUPedalbox.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=27
+Order8=7
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\QLBDGDZQ
-DocumentName9=MCUPedalbox.SchDoc
+UniqueIDPath9=\ZLTVQBIK\EMNDOYGH
+DocumentName9=PassiveFilter.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=7
+Order9=8
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\ZLTVQBIK\EMNDOYGH
+UniqueIDPath10=\ZLTVQBIK\YBGAJAVJ
 DocumentName10=PassiveFilter.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=8
+Order10=9
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\ZLTVQBIK\YBGAJAVJ
+UniqueIDPath11=\ZLTVQBIK\WPUTCEPT
 DocumentName11=PassiveFilter.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=9
+Order11=10
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\ZLTVQBIK\WPUTCEPT
+UniqueIDPath12=\ZLTVQBIK\TBZISWFF
 DocumentName12=PassiveFilter.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=10
+Order12=11
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\ZLTVQBIK\TBZISWFF
+UniqueIDPath13=\ZLTVQBIK\ULMJCRDH
 DocumentName13=PassiveFilter.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=11
+Order13=12
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\ZLTVQBIK\ULMJCRDH
+UniqueIDPath14=\ZLTVQBIK\GGYNFPKZ
 DocumentName14=PassiveFilter.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=12
+Order14=13
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\ZLTVQBIK\GGYNFPKZ
+UniqueIDPath15=\ZLTVQBIK\RZZFCMYB
 DocumentName15=PassiveFilter.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=13
+Order15=14
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
-UniqueIDPath16=\ZLTVQBIK\RZZFCMYB
+UniqueIDPath16=\ZLTVQBIK\QODULXVD
 DocumentName16=PassiveFilter.SchDoc
 IsEnabled16=1
 SelectionScope16=All
-Order16=14
+Order16=15
 IndexEnabled16=0
 IndexStartValue16=1
 Suffix16=
-UniqueIDPath17=\ZLTVQBIK\QODULXVD
-DocumentName17=PassiveFilter.SchDoc
+UniqueIDPath17=\ZLTVQBIK
+DocumentName17=Passive Filters.SchDoc
 IsEnabled17=1
 SelectionScope17=All
-Order17=15
+Order17=16
 IndexEnabled17=0
 IndexStartValue17=1
 Suffix17=
-UniqueIDPath18=\ZLTVQBIK
-DocumentName18=Passive Filters.SchDoc
+UniqueIDPath18=
+DocumentName18=Pedalbox.SchDoc
 IsEnabled18=1
 SelectionScope18=All
-Order18=16
+Order18=17
 IndexEnabled18=0
 IndexStartValue18=1
 Suffix18=
-UniqueIDPath19=
-DocumentName19=Pedalbox.SchDoc
+UniqueIDPath19=\FWMUGKBY\MGOKXSNY
+DocumentName19=PlausibilityTrigger.SchDoc
 IsEnabled19=1
 SelectionScope19=All
-Order19=17
+Order19=18
 IndexEnabled19=0
 IndexStartValue19=1
 Suffix19=
-UniqueIDPath20=\FWMUGKBY\MGOKXSNY
-DocumentName20=PlausibilityTrigger.SchDoc
+UniqueIDPath20=\ARDSJJXJ
+DocumentName20=RVPOVP.SchDoc
 IsEnabled20=1
 SelectionScope20=All
-Order20=18
+Order20=19
 IndexEnabled20=0
 IndexStartValue20=1
 Suffix20=
-UniqueIDPath21=\ARDSJJXJ
-DocumentName21=RVPOVP.SchDoc
+UniqueIDPath21=\FWMUGKBY\ZEFQZUVQ
+DocumentName21=SensorCheck.SchDoc
 IsEnabled21=1
 SelectionScope21=All
-Order21=19
+Order21=20
 IndexEnabled21=0
 IndexStartValue21=1
 Suffix21=
-UniqueIDPath22=\FWMUGKBY\ZEFQZUVQ
+UniqueIDPath22=\FWMUGKBY\ZWNDTWCI
 DocumentName22=SensorCheck.SchDoc
 IsEnabled22=1
 SelectionScope22=All
-Order22=20
+Order22=21
 IndexEnabled22=0
 IndexStartValue22=1
 Suffix22=
-UniqueIDPath23=\FWMUGKBY\ZWNDTWCI
-DocumentName23=SensorCheck.SchDoc
+UniqueIDPath23=\FWMUGKBY\ASMNZQJP
+DocumentName23=VoltageReferenceGen.SchDoc
 IsEnabled23=1
 SelectionScope23=All
-Order23=21
+Order23=22
 IndexEnabled23=0
 IndexStartValue23=1
 Suffix23=
-UniqueIDPath24=\FWMUGKBY\ASMNZQJP
-DocumentName24=VoltageReferenceGen.SchDoc
-IsEnabled24=1
-SelectionScope24=All
-Order24=22
-IndexEnabled24=0
-IndexStartValue24=1
-Suffix24=
 
 [PrjClassGen]
 CompClassManualEnabled=0
@@ -2061,121 +2068,121 @@ ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=altlib.DbLib/bjts
 ComponentDesignItemID0=13
 ComponentSymbolReference0=PNP Transistor
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=altlib.DbLib/bjts
 ComponentDesignItemID1=2
 ComponentSymbolReference1=MMBT4401
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=altlib.DbLib/bjts
 ComponentDesignItemID2=8
 ComponentSymbolReference2=2SB815-6-TB-E_PNP
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=altlib.DbLib/capacitors
 ComponentDesignItemID3=1
 ComponentSymbolReference3=capacitor
-ComponentUpdate3=1
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=altlib.DbLib/connectors
 ComponentDesignItemID4=14
 ComponentSymbolReference4=RCU-0C
-ComponentUpdate4=1
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=altlib.DbLib/connectors
 ComponentDesignItemID5=21
 ComponentSymbolReference5=CONN 26POS
-ComponentUpdate5=1
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=altlib.DbLib/connectors
 ComponentDesignItemID6=4
 ComponentSymbolReference6=CN-2P-M-R10
-ComponentUpdate6=1
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=altlib.DbLib/diodes
 ComponentDesignItemID7=10
 ComponentSymbolReference7=Zener
-ComponentUpdate7=1
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=altlib.DbLib/diodes
 ComponentDesignItemID8=19
 ComponentSymbolReference8=LED
-ComponentUpdate8=1
+ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=altlib.DbLib/fets
 ComponentDesignItemID9=26
 ComponentSymbolReference9=DMP3010LK3-13
-ComponentUpdate9=1
+ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=altlib.DbLib/fets
 ComponentDesignItemID10=6
 ComponentSymbolReference10=DMG2302UK-7
-ComponentUpdate10=1
+ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=altlib.DbLib/fuses
 ComponentDesignItemID11=11
 ComponentSymbolReference11=PTC Fuse
-ComponentUpdate11=1
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=altlib.DbLib/icinterfaces
 ComponentDesignItemID12=5
 ComponentSymbolReference12=MCP2561 CAN Transceiver
-ComponentUpdate12=1
+ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=altlib.DbLib/icmicrocontrollers
 ComponentDesignItemID13=1
 ComponentSymbolReference13=MKE18F512VLH16
-ComponentUpdate13=1
+ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=altlib.DbLib/icmisc
 ComponentDesignItemID14=12
 ComponentSymbolReference14=SN74LVC2G132DCUR
-ComponentUpdate14=1
+ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=altlib.DbLib/icmisc
-ComponentDesignItemID15=14
-ComponentSymbolReference15=SN74LVC1G32 OR Gate
-ComponentUpdate15=1
+ComponentDesignItemID15=15
+ComponentSymbolReference15=74HC21D AND Gate
+ComponentUpdate15=0
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=altlib.DbLib/icmisc
-ComponentDesignItemID16=15
-ComponentSymbolReference16=74HC21D AND Gate
-ComponentUpdate16=1
+ComponentDesignItemID16=42
+ComponentSymbolReference16=TS3704CDT
+ComponentUpdate16=0
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=altlib.DbLib/icmisc
-ComponentDesignItemID17=7
-ComponentSymbolReference17=LT1018 Dual Comparator
-ComponentUpdate17=1
+ComponentLibraryIdentifier17=altlib.DbLib/inductors
+ComponentDesignItemID17=10
+ComponentSymbolReference17=MPZ1608S221ATA00
+ComponentUpdate17=0
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=altlib.DbLib/inductors
-ComponentDesignItemID18=10
-ComponentSymbolReference18=MPZ1608S221ATA00
-ComponentUpdate18=1
+ComponentLibraryIdentifier18=altlib.DbLib/opamps
+ComponentDesignItemID18=2
+ComponentSymbolReference18=MCP6002T-I
+ComponentUpdate18=0
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=altlib.DbLib/pmic
-ComponentDesignItemID19=7
-ComponentSymbolReference19=LDO-5Pin
-ComponentUpdate19=1
+ComponentDesignItemID19=16
+ComponentSymbolReference19=NCP1117ST50T3G
+ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=altlib.DbLib/resistors
@@ -2183,32 +2190,26 @@ ComponentDesignItemID20=1
 ComponentSymbolReference20=Resistor
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=SN74LVC2G132DCUR.SchLib
-ComponentDesignItemID21=SN74LVC2G132DCUR
-ComponentSymbolReference21=SN74LVC2G132DCUR
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-FullReplace=1
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
-DoGraphics=1
-DoParameters=1
+DoGraphics=0
+DoParameters=0
 DoModels=1
 AddParameters=0
 RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=beta
+ParameterName0=AnnotateREF
 ParameterUpdate0=1
-ParameterName1=capacitance
+ParameterName1=beta
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=capacitance
 ParameterUpdate2=1
-ParameterName3=Comparator Designator
+ParameterName3=Comment
 ParameterUpdate3=1
 ParameterName4=Component Kind
 ParameterUpdate4=1
@@ -2218,110 +2219,124 @@ ParameterName6=createddate
 ParameterUpdate6=1
 ParameterName7=current
 ParameterUpdate7=1
-ParameterName8=Description
+ParameterName8=currentoutput
 ParameterUpdate8=1
-ParameterName9=dielectric
+ParameterName9=Description
 ParameterUpdate9=1
-ParameterName10=Digi-Key_Part_Number
+ParameterName10=dielectric
 ParameterUpdate10=1
-ParameterName11=Digi-Key_Purchase_URL
+ParameterName11=Digi-Key_Part_Number
 ParameterUpdate11=1
-ParameterName12=Drawer_id
+ParameterName12=Digi-Key_Purchase_URL
 ParameterUpdate12=1
-ParameterName13=DualAND
+ParameterName13=Drawer_id
 ParameterUpdate13=1
-ParameterName14=ESR
+ParameterName14=DualAND
 ParameterUpdate14=1
-ParameterName15=I_hold
+ParameterName15=ESR
 ParameterUpdate15=1
-ParameterName16=ic
+ParameterName16=gbw
 ParameterUpdate16=1
-ParameterName17=id
+ParameterName17=I_hold
 ParameterUpdate17=1
-ParameterName18=idFuse
+ParameterName18=ic
 ParameterUpdate18=1
-ParameterName19=iinterrupt
+ParameterName19=id
 ParameterUpdate19=1
-ParameterName20=imax
+ParameterName20=idFuse
 ParameterUpdate20=1
-ParameterName21=itrip
+ParameterName21=iinterrupt
 ParameterUpdate21=1
-ParameterName22=LatestRevisionDate
+ParameterName22=imax
 ParameterUpdate22=1
-ParameterName23=LatestRevisionNote
+ParameterName23=itrip
 ParameterUpdate23=1
-ParameterName24=Library Reference
+ParameterName24=LatestRevisionDate
 ParameterUpdate24=1
-ParameterName25=link
+ParameterName25=LatestRevisionNote
 ParameterUpdate25=1
-ParameterName26=Manufacturer_id
+ParameterName26=Library Reference
 ParameterUpdate26=1
-ParameterName27=MF
+ParameterName27=link
 ParameterUpdate27=1
-ParameterName28=MfrPartNo
+ParameterName28=Manufacturer_id
 ParameterUpdate28=1
-ParameterName29=MP
+ParameterName29=MF
 ParameterUpdate29=1
-ParameterName30=name
+ParameterName30=MfrPartNo
 ParameterUpdate30=1
-ParameterName31=numcircuits
+ParameterName31=MP
 ParameterUpdate31=1
-ParameterName32=numcontacts
+ParameterName32=name
 ParameterUpdate32=1
-ParameterName33=numrows
+ParameterName33=num_circuits
 ParameterUpdate33=1
-ParameterName34=package
+ParameterName34=numcircuits
 ParameterUpdate34=1
-ParameterName35=PackageDescription
+ParameterName35=numcontacts
 ParameterUpdate35=1
-ParameterName36=PackageReference
+ParameterName36=numrows
 ParameterUpdate36=1
-ParameterName37=percent tolerance
+ParameterName37=package
 ParameterUpdate37=1
-ParameterName38=pitch
+ParameterName38=PackageDescription
 ParameterUpdate38=1
-ParameterName39=power
+ParameterName39=PackageReference
 ParameterUpdate39=1
-ParameterName40=Published
+ParameterName40=percent tolerance
 ParameterUpdate40=1
-ParameterName41=Publisher
+ParameterName41=pitch
 ParameterUpdate41=1
-ParameterName42=quantity
+ParameterName42=power
 ParameterUpdate42=1
-ParameterName43=rdson
+ParameterName43=Published
 ParameterUpdate43=1
-ParameterName44=resistance
+ParameterName44=Publisher
 ParameterUpdate44=1
-ParameterName45=SnapEDA_Link
+ParameterName45=quantity
 ParameterUpdate45=1
-ParameterName46=tolerance
+ParameterName46=rdson
 ParameterUpdate46=1
-ParameterName47=type
+ParameterName47=resistance
 ParameterUpdate47=1
-ParameterName48=updatedby
+ParameterName48=slewrate
 ParameterUpdate48=1
-ParameterName49=Value
+ParameterName49=SnapEDA_Link
 ParameterUpdate49=1
-ParameterName50=vcc
+ParameterName50=tolerance
 ParameterUpdate50=1
-ParameterName51=vcemax
+ParameterName51=type
 ParameterUpdate51=1
-ParameterName52=vdsmax
+ParameterName52=updatedby
 ParameterUpdate52=1
-ParameterName53=vgsmax
+ParameterName53=Value
 ParameterUpdate53=1
-ParameterName54=vmax
+ParameterName54=vcc
 ParameterUpdate54=1
-ParameterName55=voltage
+ParameterName55=vcemax
 ParameterUpdate55=1
-ParameterName56=voltagemax
+ParameterName56=vdsmax
 ParameterUpdate56=1
-ParameterName57=voltagemin
+ParameterName57=vgsmax
 ParameterUpdate57=1
-ParameterName58=vr
+ParameterName58=vmax
 ParameterUpdate58=1
-ParameterName59=vt
+ParameterName59=voltage
 ParameterUpdate59=1
+ParameterName60=voltagehigh
+ParameterUpdate60=1
+ParameterName61=voltageinmax
+ParameterUpdate61=1
+ParameterName62=voltagelow
+ParameterUpdate62=1
+ParameterName63=voltagemax
+ParameterUpdate63=1
+ParameterName64=voltagemin
+ParameterUpdate64=1
+ParameterName65=vr
+ParameterUpdate65=1
+ParameterName66=vt
+ParameterUpdate66=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -2355,22 +2370,22 @@ ModelType9=PCBLIB
 ModelName9=SOD123F
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=SOIC-8
+ModelName10=SOIC-14
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SOT108-1
+ModelName11=SOIC-8
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SOT1699-1
+ModelName12=SOT108-1
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=SOT223-5
+ModelName13=SOT1699-1
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=SOT23-3
+ModelName14=SOT-223-3
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=SOT23-5
+ModelName15=SOT23-3
 ModelUpdate15=1
 ModelType16=PCBLIB
 ModelName16=SUPERSEAL 26POS 90Deg

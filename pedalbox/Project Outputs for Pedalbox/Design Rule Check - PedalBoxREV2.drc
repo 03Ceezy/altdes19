@@ -1,0 +1,97 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBoxREV2.PcbDoc
+Date     : 12/26/2019
+Time     : 12:46:59 AM
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.152mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (101.561mm,2.475mm)(101.561mm,41.941mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (77.55mm,-2mm)(77.55mm,10.6mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,2.475mm)(101.5mm,2.475mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,41.975mm)(101.5mm,41.975mm) on Top Overlay 
+Rule Violations :4
+
+Processing Rule : RoomDefinition (Bounding Region = (55.599mm, 69.4mm, 62.799mm, 74.2mm) (InComponentClass('Room Definition 1'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter1 (Bounding Region = (63.375mm, 47.675mm, 71.825mm, 51.775mm) (InComponentClass('U_PassiveFilter1'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_3 (Bounding Region = (36.499mm, 69.4mm, 43.699mm, 74.2mm) (InComponentClass('Room Definition 4'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_4 (Bounding Region = (27mm, 63.3mm, 34.2mm, 68.1mm) (InComponentClass('Room Definition 5'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_1 (Bounding Region = (27mm, 69.525mm, 34.2mm, 74.325mm) (InComponentClass('Room Definition 2'))
+Rule Violations :0
+
+Processing Rule : RoomDefinition_2 (Bounding Region = (46.099mm, 69.4mm, 53.199mm, 74.2mm) (InComponentClass('Room Definition 3'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter7 (Bounding Region = (73.8mm, 64.825mm, 82.25mm, 68.925mm) (InComponentClass('U_PassiveFilter7'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter6 (Bounding Region = (73.75mm, 50.975mm, 82.2mm, 55.075mm) (InComponentClass('U_PassiveFilter6'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter2 (Bounding Region = (63.35mm, 61.025mm, 71.8mm, 65.125mm) (InComponentClass('U_PassiveFilter2'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter8 (Bounding Region = (63.325mm, 68.225mm, 71.775mm, 72.325mm) (InComponentClass('U_PassiveFilter8'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter4 (Bounding Region = (73.775mm, 44.275mm, 82.225mm, 48.375mm) (InComponentClass('U_PassiveFilter4'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter5 (Bounding Region = (63.375mm, 54.375mm, 71.825mm, 58.475mm) (InComponentClass('U_PassiveFilter5'))
+Rule Violations :0
+
+Processing Rule : Room U_PassiveFilter3 (Bounding Region = (73.85mm, 57.625mm, 82.3mm, 61.725mm) (InComponentClass('U_PassiveFilter3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=38.1mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Waived Violations : 0
+Time Elapsed        : 00:00:01
