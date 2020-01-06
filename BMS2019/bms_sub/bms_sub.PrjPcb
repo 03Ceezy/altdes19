@@ -190,6 +190,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDVPMKOO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for bms_sub\Design Rule Check - bms_sub.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
