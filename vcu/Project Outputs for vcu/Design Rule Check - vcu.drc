@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\grayd\home\git\altdes19\vcu\vcu.PcbDoc
-Date     : 11/28/2019
-Time     : 10:43:44
+PCB File : C:\Users\vinhp\OneDrive\Documents\GitHub\altdes19\vcu\vcu.PcbDoc
+Date     : 1/13/2020
+Time     : 8:37:51 PM
 
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,48 +15,53 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.203mm) (Max=1.27mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=8mil) (Max=50mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
-   Violation between SMD Neck-Down Constraint: Between Pad U4-5(53.379mm,56.428mm) on Top Layer And Track (53.083mm,56.428mm)(53.129mm,56.428mm) on Top Layer Relative Track Width: 101.60%
-   Violation between SMD Neck-Down Constraint: Between Pad U5-5(53.35mm,65.7mm) on Top Layer And Track (52.396mm,65.042mm)(53.054mm,65.7mm) on Top Layer Relative Track Width: 101.60%
-Rule Violations :2
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (Disabled)(All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=157.48mil) (Disabled)(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (Disabled)(All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.05mm) (Disabled)(All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Silk to Silk (Clearance=1.968mil) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (0.254mm < 0.381mm) Between Board Edge And Text "VEHICLE CONTROL UNIT
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
 
-" (68.961mm,1.27mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.278mm < 0.381mm) Between Board Edge And Track (22.96mm,1.929mm)(54.184mm,1.929mm) on Top Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.278mm < 0.381mm) Between Board Edge And Track (4.795mm,20.094mm)(22.96mm,1.929mm) on Top Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.278mm < 0.381mm) Between Board Edge And Track (54.184mm,1.929mm)(56.369mm,4.114mm) on Top Layer 
-Rule Violations :4
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "a" (3397.284mil,-355.551mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "Design and Layout by:
+Harrison Power 
+Vincent Pierce 
+Kyle Jennings
+" (3402.284mil,754.449mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "REV 1.0 (11/2019)" (4525mil,1625mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "VEHICLE CONTROL UNIT
 
-Processing Rule : Height Constraint (Min=0mm) (Max=500mm) (Prefered=12.7mm) (All)
+" (3377.284mil,1009.449mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Track (5.512mil,1394.724mil)(5.512mil,3184.724mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.512mil < 15mil) Between Board Edge And Track (5.512mil,1394.724mil)(810.512mil,1394.724mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Track (5.512mil,3184.724mil)(810.512mil,3184.724mil) on Top Overlay 
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mil) (Max=19685.039mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 6
+Violations Detected : 7
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
