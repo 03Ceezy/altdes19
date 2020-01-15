@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\PDM(2020)\PDM-C\PDM-C_Rev3.PcbDoc
-Date     : 1/10/2020
-Time     : 8:39:36 PM
+PCB File : C:\Users\grayd\home\git\altdes19\PDM(2020)\PDM-C\PDM-C_Rev3.PcbDoc
+Date     : 1/15/2020
+Time     : 2:10:50
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -58,7 +58,7 @@ Processing Rule : Height Constraint (Min=0mil) (Max=10000mil) (Prefered=500mil) 
 Rule Violations :0
 
 Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
-   Waived Violation between Un-Routed Net Constraint: Net Fused 12V Between Pad D17-2(1453mil,1769.5mil) on Top Layer And Pad D17-2(1553mil,1384mil) on Top Layer Waived by Kevin Jung at 11/19/2019 5:39:58 PMDuplicate pin
+   Waived Violation between Un-Routed Net Constraint: Net Fused 12V Between Pad D17-2(1453mil,1769.5mil) on Top Layer And Pad D17-2(1553mil,1384mil) on Top Layer Waived by Kevin Jung at 11/19/2019 17:39:58Duplicate pin
 Waived Violations :1
 
 

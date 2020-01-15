@@ -1,12 +1,33 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [vcu.PrjPcb]
-   Generated File[vcu.TXT]
-   Generated File[vcu.LDP]
-   Generated File[vcu.DRR]
+   Generated File[vcu_Copper_Signal_Top.gbr]
+   Generated File[vcu_Copper_Signal_Bot.gbr]
+   Generated File[vcu_Pads_Bot.gbr]
+   Generated File[vcu_Pads_Top.gbr]
+   Generated File[vcu_Legend_Bot.gbr]
+   Generated File[vcu_Soldermask_Bot.gbr]
+   Generated File[vcu_Paste_Bot.gbr]
+   Generated File[vcu_Legend_Top.gbr]
+   Generated File[vcu_Paste_Top.gbr]
+   Generated File[vcu_Soldermask_Top.gbr]
+   Generated File[vcu_Mechanical_13.gbr]
+   Generated File[vcu_Mechanical_4.gbr]
+   Generated File[vcu_Mechanical_6.gbr]
+   Generated File[vcu_Mechanical_2.gbr]
+   Generated File[vcu_Mechanical_1.gbr]
+   Generated File[vcu_Mechanical_15.gbr]
+   Generated File[vcu_Profile.gbr]
+   Generated File[vcu_NPTH_Drill.gbr]
+   Generated File[vcu_PTH_Drill.gbr]
+   Generated File[vcu_Drawing_1.gbr]
+   Generated File[vcu_Drillmap_1.gbr]
+   Generated File[vcu.RUL]
+   Generated File[vcu.EXTREP]
+   Generated File[vcu.REP]
 
 
-Files Generated   : 3
+Files Generated   : 24
 Documents Printed : 0
 
-Finished Output Generation At 10:49:06 On 11/28/2019
+Finished Output Generation At 2:53:05 On 1/15/2020

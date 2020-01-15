@@ -1,9 +1,33 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [HVManager.PrjPcb]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [HVManager.PrjPcb]
+   Generated File[HV_Manager_Copper_Signal_Top.gbr]
+   Generated File[HV_Manager_Copper_Signal_Bot.gbr]
+   Generated File[HV_Manager_Pads_Bot.gbr]
+   Generated File[HV_Manager_Pads_Top.gbr]
+   Generated File[HV_Manager_Legend_Bot.gbr]
+   Generated File[HV_Manager_Soldermask_Bot.gbr]
+   Generated File[HV_Manager_Paste_Bot.gbr]
+   Generated File[HV_Manager_Legend_Top.gbr]
+   Generated File[HV_Manager_Paste_Top.gbr]
+   Generated File[HV_Manager_Soldermask_Top.gbr]
+   Generated File[HV_Manager_Keep-out.gbr]
+   Generated File[HV_Manager_Mechanical_13.gbr]
+   Generated File[HV_Manager_Mechanical_5.gbr]
+   Generated File[HV_Manager_Mechanical_8.gbr]
+   Generated File[HV_Manager_Mechanical_1.gbr]
+   Generated File[HV_Manager_Mechanical_10.gbr]
+   Generated File[HV_Manager_Mechanical_15.gbr]
+   Generated File[HV_Manager_Profile.gbr]
+   Generated File[HV_Manager_PTH_Drill.gbr]
+   Generated File[HV_Manager_Drawing_1.gbr]
+   Generated File[HV_Manager_Drillmap_1.gbr]
+   Generated File[HV_Manager.RUL]
+   Generated File[HV_Manager.EXTREP]
+   Generated File[HV_Manager.REP]
 
 
-Files Generated   : 0
+Files Generated   : 24
 Documents Printed : 0
 
-Finished Output Generation At 12:13:33 PM On 12/16/2019
+Finished Output Generation At 2:26:25 On 1/15/2020

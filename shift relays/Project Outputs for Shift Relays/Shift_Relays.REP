@@ -2,70 +2,8 @@
 FileName = Shift_Relays.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : Shift_Relays.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Shift_Relays.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Shift_Relays.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Shift_Relays.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Shift_Relays.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : Shift_Relays_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -73,6 +11,77 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Shift_Relays_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Shift_Relays_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Shift_Relays_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
     D14
     D15
     D16
@@ -83,139 +92,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Shift_Relays.GKO
+Generating : Bottom Overlay
+      File : Shift_Relays_Legend_Bot.gbr
 
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Shift_Relays.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D11
-    D21
-    D22
     D23
     D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : Shift_Relays.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Shift_Relays.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Shift_Relays.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Shift_Relays.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Shift_Relays.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : Shift_Relays.GM16
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Shift_Relays.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : Shift_Relays.GBS
+      File : Shift_Relays_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -225,14 +115,205 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
+    D25
+    D26
+    D27
+    D28
+    D29
     D30
     D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Shift_Relays_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Shift_Relays_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D23
+    D24
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Shift_Relays_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Shift_Relays_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Shift_Relays_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D36
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Shift_Relays_Mechanical_4.gbr
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Shift_Relays_Mechanical_16.gbr
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Shift_Relays_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Shift_Relays_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D36
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Shift_Relays_Profile.gbr
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Shift_Relays_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Shift_Relays_PTH_Drill.gbr
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Shift_Relays_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Shift_Relays_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D52
 *************************************************************
 

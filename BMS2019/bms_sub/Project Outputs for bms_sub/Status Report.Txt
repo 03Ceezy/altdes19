@@ -1,0 +1,30 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [bms_sub.PrjPcb]
+   Generated File[bms_sub_Copper_Signal_Top.gbr]
+   Generated File[bms_sub_Copper_Signal_Bot.gbr]
+   Generated File[bms_sub_Pads_Bot.gbr]
+   Generated File[bms_sub_Pads_Top.gbr]
+   Generated File[bms_sub_Legend_Bot.gbr]
+   Generated File[bms_sub_Soldermask_Bot.gbr]
+   Generated File[bms_sub_Legend_Top.gbr]
+   Generated File[bms_sub_Paste_Top.gbr]
+   Generated File[bms_sub_Soldermask_Top.gbr]
+   Generated File[bms_sub_Keep-out.gbr]
+   Generated File[bms_sub_Mechanical_13.gbr]
+   Generated File[bms_sub_Mechanical_1.gbr]
+   Generated File[bms_sub_Mechanical_15.gbr]
+   Generated File[bms_sub_Profile.gbr]
+   Generated File[bms_sub_NPTH_Drill.gbr]
+   Generated File[bms_sub_PTH_Drill.gbr]
+   Generated File[bms_sub_Drawing_1.gbr]
+   Generated File[bms_sub_Drillmap_1.gbr]
+   Generated File[bms_sub.RUL]
+   Generated File[bms_sub.EXTREP]
+   Generated File[bms_sub.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 1:11:53 On 1/15/2020

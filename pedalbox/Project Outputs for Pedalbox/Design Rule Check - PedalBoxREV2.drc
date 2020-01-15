@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBoxREV2.PcbDoc
-Date     : 12/26/2019
-Time     : 12:46:59 AM
+PCB File : C:\Users\grayd\home\git\altdes19\pedalbox\PedalBoxREV2.PcbDoc
+Date     : 1/15/2020
+Time     : 2:15:25
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -43,11 +43,13 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0.092mm < 0.254mm) Between Board Edge And Text "Measure Once
+Cut Thrice" (95.9mm,6.5mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "Small but Mighty" (190.292mm,82.649mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (101.561mm,2.475mm)(101.561mm,41.941mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (77.55mm,-2mm)(77.55mm,10.6mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,2.475mm)(101.5mm,2.475mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (94.5mm,41.975mm)(101.5mm,41.975mm) on Top Overlay 
-Rule Violations :4
+Rule Violations :5
 
 Processing Rule : RoomDefinition (Bounding Region = (55.599mm, 69.4mm, 62.799mm, 74.2mm) (InComponentClass('Room Definition 1'))
 Rule Violations :0
@@ -91,7 +93,14 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=38.1mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+   Waived Violation between Clearance Constraint: (Collision < 0.203mm) Between Arc (14.5mm,7.5mm) on Top Layer And Area Fill (12mm,0mm) (24mm,12mm) on Keep-Out Layer Waived by Graydon Wilson at 1/15/2020 2:15:11
+   Waived Violation between Clearance Constraint: (Collision < 0.203mm) Between Arc (16.5mm,6.5mm) on Top Layer And Area Fill (12mm,0mm) (24mm,12mm) on Keep-Out Layer Waived by Graydon Wilson at 1/15/2020 2:15:16
+   Waived Violation between Clearance Constraint: (Collision < 0.203mm) Between Arc (19mm,6.5mm) on Top Layer And Area Fill (12mm,0mm) (24mm,12mm) on Keep-Out Layer Waived by Graydon Wilson at 1/15/2020 2:15:16
+   Waived Violation between Clearance Constraint: (Collision < 0.203mm) Between Arc (21mm,7.5mm) on Top Layer And Area Fill (12mm,0mm) (24mm,12mm) on Keep-Out Layer Waived by Graydon Wilson at 1/15/2020 2:15:16
+Waived Violations :4
 
-Violations Detected : 4
-Waived Violations : 0
+
+Violations Detected : 5
+Waived Violations : 4
 Time Elapsed        : 00:00:01

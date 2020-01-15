@@ -1,12 +1,34 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [bms.PrjPcb]
-   Generated File[BMS.TXT]
-   Generated File[BMS.LDP]
-   Generated File[BMS.DRR]
+   Generated File[BMS_Copper_Signal_Top.gbr]
+   Generated File[BMS_Copper_Signal_Bot.gbr]
+   Generated File[BMS_Pads_Bot.gbr]
+   Generated File[BMS_Pads_Top.gbr]
+   Generated File[BMS_Legend_Bot.gbr]
+   Generated File[BMS_Soldermask_Bot.gbr]
+   Generated File[BMS_Paste_Bot.gbr]
+   Generated File[BMS_Legend_Top.gbr]
+   Generated File[BMS_Paste_Top.gbr]
+   Generated File[BMS_Soldermask_Top.gbr]
+   Generated File[BMS_Keep-out.gbr]
+   Generated File[BMS_Mechanical_13.gbr]
+   Generated File[BMS_Mechanical_4.gbr]
+   Generated File[BMS_Mechanical_6.gbr]
+   Generated File[BMS_Mechanical_2.gbr]
+   Generated File[BMS_Mechanical_1.gbr]
+   Generated File[BMS_Mechanical_15.gbr]
+   Generated File[BMS_Profile.gbr]
+   Generated File[BMS_NPTH_Drill.gbr]
+   Generated File[BMS_PTH_Drill.gbr]
+   Generated File[BMS_Drawing_1.gbr]
+   Generated File[BMS_Drillmap_1.gbr]
+   Generated File[BMS.RUL]
+   Generated File[BMS.EXTREP]
+   Generated File[BMS.REP]
 
 
-Files Generated   : 3
+Files Generated   : 25
 Documents Printed : 0
 
-Finished Output Generation At 19:49:29 On 11/27/2019
+Finished Output Generation At 1:08:52 On 1/15/2020

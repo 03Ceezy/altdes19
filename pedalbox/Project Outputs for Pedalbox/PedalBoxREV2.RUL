@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\KevinMBP\Documents\GitHub\altdes19\pedalbox\PedalBoxREV2.PcbDoc
+DRC Rules Export File for PCB: C:\Users\grayd\home\git\altdes19\pedalbox\PedalBoxREV2.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00

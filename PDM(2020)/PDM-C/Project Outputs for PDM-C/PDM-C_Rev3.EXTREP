@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PDM-C_Rev3.GBR   11/19/2019  6:36:26 PM
+Gerber File Extension Report For: PDM-C_Rev3.GBR   1/15/2020  2:11:41
 ------------------------------------------------------------------------------------------
 
 
@@ -17,6 +17,12 @@ Layer Extension     Layer Description
 .gbr                Top Paste                               
 .gbr                Top Solder                              
 .gbr                Keep-Out Layer                          
+.gbr                Mechanical 13                           
+.gbr                Courtyard Top                           
+.gbr                3D Body Top                             
+.gbr                Assembly Top                            
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
 .gbr                Profile                                 
 .gbr                Non-plated through-hole drill file      
 .gbr                Plated through-hole drill file          

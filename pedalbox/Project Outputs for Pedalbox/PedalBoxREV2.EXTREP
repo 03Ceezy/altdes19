@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PedalBoxREV2.GBR   12/26/2019  1:42:31 PM
+Gerber File Extension Report For: PedalBoxREV2.GBR   1/15/2020  2:15:50
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,13 @@ Layer Extension     Layer Description
 .gbr                Top Overlay                             
 .gbr                Top Paste                               
 .gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 13                           
+.gbr                Assembly Top                            
+.gbr                Courtyard Top                           
+.gbr                Mechanical 1                            
+.gbr                3D Body Top                             
+.gbr                Mechanical 15                           
 .gbr                Profile                                 
 .gbr                Non-plated through-hole drill file      
 .gbr                Plated through-hole drill file          

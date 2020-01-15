@@ -11,6 +11,13 @@ From  : Project [Pedalbox.PrjPcb]
    Generated File[PedalBoxREV2_Legend_Top.gbr]
    Generated File[PedalBoxREV2_Paste_Top.gbr]
    Generated File[PedalBoxREV2_Soldermask_Top.gbr]
+   Generated File[PedalBoxREV2_Keep-out.gbr]
+   Generated File[PedalBoxREV2_Mechanical_13.gbr]
+   Generated File[PedalBoxREV2_Mechanical_2.gbr]
+   Generated File[PedalBoxREV2_Mechanical_5.gbr]
+   Generated File[PedalBoxREV2_Mechanical_1.gbr]
+   Generated File[PedalBoxREV2_Mechanical_7.gbr]
+   Generated File[PedalBoxREV2_Mechanical_15.gbr]
    Generated File[PedalBoxREV2_Profile.gbr]
    Generated File[PedalBoxREV2_NPTH_Drill.gbr]
    Generated File[PedalBoxREV2_PTH_Drill.gbr]
@@ -21,7 +28,7 @@ From  : Project [Pedalbox.PrjPcb]
    Generated File[PedalBoxREV2.REP]
 
 
-Files Generated   : 18
+Files Generated   : 25
 Documents Printed : 0
 
-Finished Output Generation At 1:42:35 PM On 12/26/2019
+Finished Output Generation At 2:15:55 On 1/15/2020
