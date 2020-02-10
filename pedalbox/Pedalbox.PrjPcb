@@ -660,6 +660,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Pedalbox\PedalBoxREV2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
+[GeneratedDocument76]
+DocumentPath=PedalBoxREV2 2-9-2020 5-37-47 PM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
