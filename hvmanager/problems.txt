@@ -1,0 +1,4 @@
+## revision 1.0
+
+layout: C20 and C21 reference designators obscured
+	a number of other designators overlap outlines: C1, C2, C4, R23, ...

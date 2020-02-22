@@ -2,8 +2,155 @@
 FileName = PedalBoxREV2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : PedalBoxREV2_Copper_Signal_Top.gbr
+Generating : Mechanical 15
+      File : PedalBoxREV2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PedalBoxREV2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : 3D Body Top
+      File : PedalBoxREV2.GM7
+
+    Adding Layer      : 3D Body Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : PedalBoxREV2.GM5
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : PedalBoxREV2.GM2
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PedalBoxREV2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PedalBoxREV2.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PedalBoxREV2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D14
+    D15
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PedalBoxREV2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D26
+    D27
+    D28
+    D29
+    D30
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PedalBoxREV2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D46
+    D47
+    D48
+    D49
+    D50
+    D56
+    D57
+    D58
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PedalBoxREV2.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,12 +158,43 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PedalBoxREV2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D16
     D17
     D18
@@ -37,184 +215,27 @@ Used DCodes :
     D33
     D34
     D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PedalBoxREV2_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D21
-    D22
-    D23
-    D24
-    D25
-    D31
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PedalBoxREV2_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D21
-    D22
-    D23
-    D24
-    D25
-    D34
-    D35
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PedalBoxREV2_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PedalBoxREV2_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PedalBoxREV2_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PedalBoxREV2_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D21
-    D22
-    D23
-    D24
-    D25
-    D37
-    D38
-    D39
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : PedalBoxREV2_Legend_Top.gbr
+      File : PedalBoxREV2.GTO
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
-    D41
-    D42
-    D43
-    D44
-    D46
-    D60
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PedalBoxREV2_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : PedalBoxREV2.GPT
 
     Adding Layer      : Top Layer
 
@@ -222,11 +243,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
     D16
     D17
     D18
@@ -242,30 +258,58 @@ Used DCodes :
     D28
     D29
     D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D61
+    D62
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PedalBoxREV2_Soldermask_Top.gbr
+Generating : Bottom Pad Master
+      File : PedalBoxREV2.GPB
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D47
-    D48
-    D49
-    D50
-    D51
-    D55
-    D56
-    D57
-    D58
-    D59
+    D16
+    D17
+    D26
+    D27
+    D28
+    D29
+    D30
+    D61
+    D62
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PedalBoxREV2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D17
+    D26
+    D27
+    D28
+    D29
+    D30
+    D60
     D61
     D62
     D63
@@ -273,145 +317,43 @@ Used DCodes :
     D65
     D66
     D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : PedalBoxREV2_Keep-out.gbr
+Generating : Top Layer
+      File : PedalBoxREV2.GTL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PedalBoxREV2_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Assembly Top
-      File : PedalBoxREV2_Mechanical_2.gbr
-
-    Adding Layer      : Assembly Top
-
-
-Used DCodes :
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Courtyard Top
-      File : PedalBoxREV2_Mechanical_5.gbr
-
-    Adding Layer      : Courtyard Top
-
-
-Used DCodes :
-    D75
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PedalBoxREV2_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : 3D Body Top
-      File : PedalBoxREV2_Mechanical_7.gbr
-
-    Adding Layer      : 3D Body Top
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PedalBoxREV2_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D75
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : PedalBoxREV2_Profile.gbr
-
-
-Used DCodes :
-    D77
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : PedalBoxREV2_NPTH_Drill.gbr
-
-
-Used DCodes :
-    D78
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : PedalBoxREV2_PTH_Drill.gbr
-
-
-Used DCodes :
-    D80
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : PedalBoxREV2_Drawing_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D83
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : PedalBoxREV2_Drillmap_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D83
+    D13
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D59
+    D60
+    D61
+    D62
+    D63
 *************************************************************
 

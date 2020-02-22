@@ -2,8 +2,8 @@
 FileName = BMS.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : BMS_Copper_Signal_Top.gbr
+Generating : Top Pad Master
+      File : BMS.GPT
 
     Adding Layer      : Top Layer
 
@@ -11,13 +11,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
     D17
     D18
     D19
@@ -29,43 +22,14 @@ Used DCodes :
     D25
     D26
     D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : BMS_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D18
-    D20
-    D21
-    D22
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
 Generating : Bottom Pad Master
-      File : BMS_Pads_Bot.gbr
+      File : BMS.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -73,65 +37,26 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D11
-    D12
-    D18
-    D24
-    D25
-    D26
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : BMS_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
     D18
     D19
-    D24
-    D25
-    D26
+    D21
+    D22
+    D45
+    D46
+    D47
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : BMS_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D29
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : BMS_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : BMS.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -139,9 +64,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D40
-    D41
-    D42
+    D15
+    D18
+    D19
+    D21
+    D22
     D43
     D44
     D45
@@ -154,11 +81,109 @@ Used DCodes :
     D52
     D53
     D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : BMS.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : 3D Body Top
+      File : BMS.GM6
+
+    Adding Layer      : 3D Body Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : BMS.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : BMS.GM4
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D14
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : BMS.GM2
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BMS.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BMS.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BMS.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D15
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : BMS_Paste_Bot.gbr
+      File : BMS.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -168,9 +193,64 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
-    D12
     D18
+    D19
+    D21
+    D22
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BMS.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D32
+    D33
+    D39
+    D40
+    D41
+    D42
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BMS.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
     D30
     D31
     D32
@@ -178,34 +258,44 @@ Used DCodes :
     D34
     D35
     D36
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : BMS_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D29
     D37
     D38
     D39
-    D55
-    D56
-    D57
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : BMS_Paste_Top.gbr
+      File : BMS.GTP
 
     Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BMS.GTO
+
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
@@ -216,16 +306,11 @@ Used DCodes :
     D14
     D15
     D16
-    D17
-    D18
-    D19
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : BMS_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : BMS.GTL
 
     Adding Layer      : Top Layer
 
@@ -233,161 +318,25 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D40
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
     D43
     D44
+    D45
+    D46
+    D47
+    D48
+    D49
     D50
-    D51
-    D52
-    D53
-    D54
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : BMS_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : BMS_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Courtyard Top
-      File : BMS_Mechanical_4.gbr
-
-    Adding Layer      : Courtyard Top
-
-
-Used DCodes :
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : 3D Body Top
-      File : BMS_Mechanical_6.gbr
-
-    Adding Layer      : 3D Body Top
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Assembly Top
-      File : BMS_Mechanical_2.gbr
-
-    Adding Layer      : Assembly Top
-
-
-Used DCodes :
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : BMS_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D37
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : BMS_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : BMS_Profile.gbr
-
-
-Used DCodes :
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : BMS_NPTH_Drill.gbr
-
-
-Used DCodes :
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : BMS_PTH_Drill.gbr
-
-
-Used DCodes :
-    D75
-    D76
-    D77
-    D78
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : BMS_Drawing_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D68
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : BMS_Drillmap_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D68
 *************************************************************
 
